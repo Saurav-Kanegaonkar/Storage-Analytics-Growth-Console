@@ -2,7 +2,7 @@
 
 - Project: Storage Analytics Growth Console
 - GitHub: https://github.com/Saurav-Kanegaonkar/Storage-Analytics-Growth-Console
-- Status: artifact ready
+- Status: pushed
 - Resume Link Ready: Yes
 
 ## What Exists
