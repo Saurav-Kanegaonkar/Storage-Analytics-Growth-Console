@@ -1,45 +1,584 @@
 :root {
-  --bg: #f6f2ea;
-  --ink: #20160f;
-  --muted: #75685d;
-  --panel: #fffaf1;
-  --line: #e2d5c2;
-  --orange: #f05a28;
-  --blue: #2357a4;
-  --mint: #6ec6b8;
-  --shadow: 0 24px 70px rgb(92 59 28 / 14%);
+  --bg: #f4f6f4;
+  --panel: #ffffff;
+  --ink: #17211d;
+  --muted: #65706a;
+  --line: #dfe6df;
+  --green: #207b5b;
+  --teal: #16848c;
+  --amber: #c87521;
+  --red: #b94a48;
+  --blue: #315f9f;
+  --soft-green: #e9f4ef;
+  --soft-blue: #e9f0f8;
+  --soft-amber: #fff3e3;
+  --shadow: 0 18px 45px rgb(31 45 38 / 9%);
 }
-* { box-sizing: border-box; }
-body { margin: 0; background: radial-gradient(circle at top right, #d9f0ea, transparent 36%), var(--bg); color: var(--ink); font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-button { font: inherit; }
-.lab { max-width: 1180px; margin: 0 auto; padding: 38px; }
-.lab-header { display: grid; grid-template-columns: 1fr 390px; align-items: end; gap: 28px; margin-bottom: 24px; }
-.lab-header h1 { margin: 0; font-size: 58px; line-height: .92; max-width: 720px; }
-.lab-header p:last-child { font-size: 20px; line-height: 1.5; color: var(--muted); }
-.label { margin: 0 0 10px; color: var(--orange); text-transform: uppercase; letter-spacing: .11em; font-size: 12px; font-weight: 900; }
-.funnel { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-bottom: 20px; }
-.funnel article, .matrix-card, .experiment-card, .readout article { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; box-shadow: var(--shadow); padding: 20px; }
-.funnel span, .experiment-metrics span { color: var(--muted); font-weight: 800; }
-.funnel strong { display: block; font-size: 34px; margin: 8px 0 14px; }
-.funnel div { height: 10px; background: #eadfce; }
-.funnel i { display: block; width: var(--w); height: 100%; background: linear-gradient(90deg, var(--orange), var(--mint)); }
-.matrix-wrap { display: grid; grid-template-columns: 1.05fr .95fr; gap: 20px; }
-.matrix { height: 420px; position: relative; background: linear-gradient(#eadfce 1px, transparent 1px), linear-gradient(90deg, #eadfce 1px, transparent 1px); background-size: 25% 25%; border: 1px solid var(--line); }
-.matrix:before { content: "Confidence"; position: absolute; bottom: 10px; right: 14px; color: var(--muted); font-weight: 800; }
-.matrix:after { content: "Impact"; position: absolute; top: 12px; left: 14px; color: var(--muted); font-weight: 800; }
-.matrix button { position: absolute; transform: translate(-50%, 50%); border: 0; background: var(--blue); color: white; border-radius: 999px; width: 74px; height: 74px; cursor: pointer; box-shadow: var(--shadow); }
-.matrix button.active { background: var(--orange); width: 96px; height: 96px; }
-.matrix button span { position: absolute; left: 50%; top: calc(100% + 8px); width: 160px; transform: translateX(-50%); color: var(--ink); font-weight: 900; font-size: 13px; }
-.experiment-card h2 { font-size: 34px; margin: 0 0 12px; }
-.experiment-card p { color: var(--muted); line-height: 1.6; }
-.experiment-metrics { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 18px; }
-.experiment-metrics div { border-top: 4px solid var(--orange); background: #fff4e6; padding: 14px; }
-.experiment-metrics strong { display: block; font-size: 24px; margin-top: 6px; }
-.readout { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 20px; }
-.readout p { color: var(--muted); line-height: 1.5; border-top: 1px solid var(--line); padding-top: 12px; }
-.readout b { display: inline-grid; place-items: center; width: 24px; height: 24px; background: var(--orange); color: white; border-radius: 50%; margin-right: 8px; }
-@media (max-width: 920px) {
-  .lab-header, .funnel, .matrix-wrap, .readout, .experiment-metrics { grid-template-columns: 1fr; }
-  .lab { padding: 20px; }
-  .lab-header h1 { font-size: 42px; }
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+button {
+  font: inherit;
+}
+
+.shell {
+  max-width: 1220px;
+  margin: 0 auto;
+  padding: 32px;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 360px;
+  gap: 24px;
+  align-items: end;
+  margin-bottom: 22px;
+}
+
+.hero h1 {
+  max-width: 840px;
+  margin: 0;
+  font-size: clamp(42px, 7vw, 76px);
+  line-height: .9;
+  letter-spacing: 0;
+}
+
+.hero-copy,
+.body-copy,
+.decision-card p,
+.automation-grid p,
+.readout p,
+.ops-list p {
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.hero-copy {
+  max-width: 760px;
+  font-size: 19px;
+  margin: 18px 0 0;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  color: var(--green);
+  font-size: 12px;
+  font-weight: 850;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.decision-card,
+.panel,
+.metric-card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+.decision-card {
+  padding: 22px;
+  border-top: 5px solid var(--green);
+}
+
+.decision-card span,
+.metric-card span,
+.channel-list span,
+.ops-list span,
+.quality-list span,
+.funnel span {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 750;
+}
+
+.decision-card strong {
+  display: block;
+  margin-top: 8px;
+  font-size: 25px;
+  line-height: 1.08;
+}
+
+.surface-tabs {
+  display: flex;
+  gap: 8px;
+  padding: 6px;
+  margin-bottom: 18px;
+  background: #e8eee9;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  overflow-x: auto;
+}
+
+.surface-tabs button {
+  min-height: 42px;
+  padding: 0 16px;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--muted);
+  font-weight: 850;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.surface-tabs button.active {
+  background: var(--panel);
+  color: var(--ink);
+  box-shadow: 0 10px 24px rgb(31 45 38 / 10%);
+}
+
+.surface {
+  display: none;
+}
+
+.surface.active {
+  display: block;
+}
+
+.metric-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+  margin-bottom: 18px;
+}
+
+.metric-card {
+  min-height: 150px;
+  padding: 20px;
+  border-top: 5px solid var(--green);
+}
+
+.metric-card.watch {
+  border-top-color: var(--amber);
+}
+
+.metric-card strong {
+  display: block;
+  margin: 12px 0 10px;
+  font-size: 36px;
+  line-height: 1;
+}
+
+.metric-card p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.two-column {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  margin-bottom: 18px;
+}
+
+.experiment-layout {
+  grid-template-columns: 1.08fr .92fr;
+}
+
+.panel {
+  padding: 22px;
+}
+
+.panel-heading {
+  margin-bottom: 18px;
+}
+
+.panel-heading h2 {
+  margin: 0;
+  font-size: 25px;
+  line-height: 1.15;
+}
+
+.panel-heading.inline {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  align-items: start;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  min-height: 30px;
+  padding: 0 10px;
+  border-radius: 999px;
+  background: var(--soft-blue);
+  color: var(--blue);
+  font-size: 12px;
+  font-weight: 850;
+  white-space: nowrap;
+}
+
+.funnel {
+  display: grid;
+  gap: 12px;
+}
+
+.funnel article {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+
+.funnel article div {
+  display: grid;
+  grid-template-columns: 44px minmax(0, 1fr) 76px;
+  gap: 12px;
+  align-items: center;
+}
+
+.funnel strong {
+  font-size: 15px;
+}
+
+.funnel b {
+  text-align: right;
+  font-size: 18px;
+}
+
+.funnel i,
+.bar {
+  display: block;
+  height: 12px;
+  overflow: hidden;
+  background: #edf1ee;
+  border-radius: 999px;
+}
+
+.funnel i:before,
+.bar i {
+  content: "";
+  display: block;
+  width: var(--bar);
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--green), var(--teal));
+}
+
+.channel-list,
+.ops-list,
+.quality-list {
+  display: grid;
+  gap: 12px;
+}
+
+.channel-list article,
+.ops-list article {
+  display: grid;
+  gap: 10px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--line);
+}
+
+.channel-list article:last-child,
+.ops-list article:last-child {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.channel-list article > div:first-child,
+.ops-list article > div:first-child {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: baseline;
+}
+
+dl {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: 0;
+}
+
+dt {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+dd {
+  margin: 4px 0 0;
+  font-weight: 900;
+}
+
+.market-table {
+  display: grid;
+  gap: 8px;
+}
+
+.table-row {
+  display: grid;
+  grid-template-columns: 1fr .7fr .9fr .8fr .9fr 1.8fr;
+  gap: 12px;
+  align-items: center;
+  min-height: 50px;
+  padding: 12px;
+  background: #f9fbf9;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.table-row p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.table-head {
+  min-height: 34px;
+  background: transparent;
+  border: 0;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+.matrix {
+  position: relative;
+  height: 460px;
+  background:
+    linear-gradient(#e2e8e2 1px, transparent 1px),
+    linear-gradient(90deg, #e2e8e2 1px, transparent 1px);
+  background-size: 25% 25%;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.matrix:before,
+.matrix:after {
+  position: absolute;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+.matrix:before {
+  content: "Confidence";
+  right: 14px;
+  bottom: 12px;
+}
+
+.matrix:after {
+  content: "Impact";
+  left: 14px;
+  top: 12px;
+}
+
+.matrix button {
+  position: absolute;
+  width: 114px;
+  min-height: 58px;
+  padding: 8px;
+  transform: translate(-50%, 50%);
+  border: 1px solid #cbd8ce;
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--ink);
+  box-shadow: var(--shadow);
+  cursor: pointer;
+}
+
+.matrix button.active {
+  border-color: var(--green);
+  background: var(--soft-green);
+}
+
+.matrix button span {
+  display: block;
+  color: var(--green);
+  font-size: 11px;
+  font-weight: 900;
+}
+
+.matrix button strong {
+  display: block;
+  margin-top: 3px;
+  font-size: 12px;
+  line-height: 1.15;
+}
+
+.selected-experiment {
+  border-top: 5px solid var(--green);
+}
+
+.experiment-metrics {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.experiment-metrics div,
+.test-plan dl div,
+.automation-grid article {
+  padding: 14px;
+  background: #f9fbf9;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.experiment-metrics strong {
+  display: block;
+  margin-top: 6px;
+  font-size: 22px;
+}
+
+.test-plan dl {
+  margin-bottom: 18px;
+}
+
+.test-plan h3,
+.readout h3 {
+  margin: 0 0 10px;
+}
+
+.test-plan ul {
+  margin: 0;
+  padding-left: 18px;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.readout {
+  display: grid;
+  gap: 16px;
+}
+
+.readout p {
+  margin: 0 0 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+}
+
+.readout b {
+  display: inline-grid;
+  place-items: center;
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+  border-radius: 50%;
+  background: var(--green);
+  color: white;
+}
+
+.ops-list article.watch .bar i {
+  background: linear-gradient(90deg, var(--amber), var(--teal));
+}
+
+.quality-list article {
+  display: grid;
+  grid-template-columns: 96px 1fr 112px;
+  gap: 14px;
+  align-items: center;
+  min-height: 62px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--green);
+  border-radius: 6px;
+  background: #f9fbf9;
+}
+
+.quality-list article.fail {
+  border-left-color: var(--red);
+  background: #fff1ef;
+}
+
+.quality-list strong {
+  font-size: 15px;
+}
+
+.quality-list b,
+.quality-list small {
+  display: block;
+  text-align: right;
+}
+
+.quality-list small {
+  color: var(--muted);
+}
+
+.automation-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+}
+
+.automation-grid strong {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+.automation-grid p {
+  margin: 0;
+}
+
+@media (max-width: 980px) {
+  .shell {
+    padding: 20px;
+  }
+
+  .hero,
+  .two-column,
+  .experiment-layout,
+  .metric-grid,
+  .automation-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .table-row {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .table-head {
+    display: none;
+  }
+
+  .panel-heading.inline {
+    display: block;
+  }
+
+  .pill {
+    margin-top: 12px;
+  }
+}
+
+@media (max-width: 640px) {
+  .shell {
+    padding: 14px;
+  }
+
+  .hero h1 {
+    font-size: 40px;
+  }
+
+  .funnel article div,
+  .quality-list article,
+  .experiment-metrics,
+  dl {
+    grid-template-columns: 1fr;
+  }
+
+  .funnel b,
+  .quality-list b,
+  .quality-list small {
+    text-align: left;
+  }
+
+  .matrix {
+    height: 500px;
+  }
 }

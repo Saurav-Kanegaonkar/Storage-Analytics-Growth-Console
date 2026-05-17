@@ -1,19 +1,9 @@
-experiment_id,idea,impact_score,confidence_score,effort_score,primary_metric,priority_score
-EXP007,Checkout simplification,89,71,28,quote_start_rate,73.9
-EXP003,Market capacity warning,82,75,20,repeat_booking_rate,73.85
-EXP010,Competitor price guardrail,90,73,51,booking_conversion,69.6
-EXP004,Competitor price guardrail,82,74,48,booking_conversion,66.4
-EXP015,Competitor price guardrail,67,75,34,wasted_spend,62.1
-EXP012,Market capacity warning,92,54,55,booking_conversion,61.15
-EXP017,Competitor price guardrail,46,88,15,repeat_booking_rate,61.15
-EXP001,Mobile unit selector,45,87,16,wasted_spend,59.9
-EXP011,Landing page proof module,55,79,33,wasted_spend,57.55
-EXP014,Competitor price guardrail,70,74,57,quote_start_rate,57.55
-EXP009,Mobile unit selector,43,79,21,booking_conversion,53.95
-EXP006,Landing page proof module,64,55,29,wasted_spend,52.7
-EXP016,Competitor price guardrail,46,82,45,repeat_booking_rate,50.95
-EXP013,Competitor price guardrail,49,72,35,booking_conversion,50.6
-EXP002,Checkout simplification,47,81,55,quote_start_rate,48.55
-EXP008,Competitor price guardrail,51,67,50,quote_start_rate,45.7
-EXP005,Landing page proof module,43,65,32,wasted_spend,44.9
-EXP018,Checkout simplification,44,56,33,booking_conversion,41.15
+experiment_id,idea,impact_score,confidence_score,effort_score,tracking_readiness_pct,capacity_fit_pct,competitor_risk_score,primary_metric,priority_score
+EXP-07,Mobile unit selector,88,82,42,93,87,22,quote_start_rate,75.0
+EXP-04,Competitor price guardrail,74,71,24,86,79,48,paid_booking_cost,65.1
+EXP-11,Online move-in proof module,66,77,45,88,82,18,move_in_completion,64.4
+EXP-15,Repeat renter lifecycle,54,84,18,91,76,20,repeat_booking_rate,62.9
+EXP-09,Market capacity warning,58,73,38,85,69,33,capacity_protected_conversion,58.1
+EXP-02,Checkout simplification,61,68,64,78,80,26,reservation_completion,57.1
+EXP-13,SEO local proof pages,52,66,36,92,74,29,organic_quote_start_rate,56.3
+EXP-18,Affiliate landing cleanup,41,59,28,81,72,46,affiliate_booking_rate,48.4

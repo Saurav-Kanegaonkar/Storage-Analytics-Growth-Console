@@ -1,17 +1,17 @@
 # Status
 
-Storage Analytics Growth Console has been reworked into a distinct ecommerce experimentation lab format.
+Storage Analytics Growth Console has been upgraded into a three-surface BI analyst workbench for a storage ecommerce growth team.
 
-## Current state
+## Current State
 
-- Distinct visual system and interaction model
-- README includes motivation, outputs, recommendations, and run instructions
-- Methodology note added under `analysis/`
-- Lightweight scoring script added under `scripts/`
-- Screenshot refreshed under `docs/images/dashboard.png`
+- Executive Growth Pulse surface added for funnel, channel, market, capacity, and competitor context.
+- Experiment Lab surface added for A/B prioritization, measurement design, and recommendations.
+- Data Operations Monitor surface added for tracking QA, source freshness, completeness, and automation logic.
+- Scoring script expanded to include tracking readiness, capacity fit, and competitor risk.
+- README now includes three screenshots, documented synthetic data assumptions, role alignment, and scope.
 
-## Next useful improvements
+## Next Useful Improvements
 
-- Replace synthetic data with public or company-adjacent data where available
-- Add unit checks for metric calculations
-- Add deployment link after final review
+- Connect the workbench to generated CSV extracts instead of the front-end fixture.
+- Add automated tests for the scoring formula.
+- Add a hosted demo link after final deployment.

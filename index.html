@@ -7,36 +7,147 @@
   <link rel="stylesheet" href="src/styles.css">
 </head>
 <body>
-  <main class="lab">
-    <header class="lab-header">
-      <p class="label">Ecommerce Experimentation</p>
-      <h1>Storage Analytics Growth Console</h1>
-      <p>Connect demand, tracking QA, inventory constraints, and campaign ROI before deciding which growth experiment deserves traffic.</p>
+  <main class="shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Storage ecommerce BI workbench</p>
+        <h1>Storage Analytics Growth Console</h1>
+        <p class="hero-copy">A three-surface analyst artifact that connects digital journeys, storage capacity, competitor signals, A/B test readiness, and data quality into one decision flow.</p>
+      </div>
+      <aside class="decision-card">
+        <span>Recommended next move</span>
+        <strong>Run the mobile unit selector test in high-capacity markets.</strong>
+        <p>Expected lift is strongest where tracking is clean, mobile demand is high, and inventory can absorb additional reservations.</p>
+      </aside>
     </header>
-    <section class="funnel" id="funnel"></section>
-    <section class="matrix-wrap">
-      <article class="matrix-card">
-        <p class="label">Experiment priority matrix</p>
-        <div id="matrix" class="matrix"></div>
-      </article>
-      <article class="experiment-card">
-        <p class="label">Selected experiment</p>
-        <h2 id="experiment-title"></h2>
-        <p id="experiment-hypothesis"></p>
-        <div id="experiment-metrics" class="experiment-metrics"></div>
-      </article>
+
+    <nav class="surface-tabs" aria-label="Dashboard surfaces">
+      <button class="active" data-view="executive">Executive Growth Pulse</button>
+      <button data-view="experiments">Experiment Lab</button>
+      <button data-view="operations">Data Operations Monitor</button>
+    </nav>
+
+    <section class="surface active" id="executive">
+      <div class="metric-grid" id="metric-grid"></div>
+
+      <div class="two-column">
+        <section class="panel">
+          <div class="panel-heading">
+            <p class="eyebrow">Digital journey</p>
+            <h2>Search to online move-in funnel</h2>
+          </div>
+          <div class="funnel" id="funnel"></div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <p class="eyebrow">Marketing mix</p>
+            <h2>Channel conversion and tracking quality</h2>
+          </div>
+          <div class="channel-list" id="channel-list"></div>
+        </section>
+      </div>
+
+      <section class="panel">
+        <div class="panel-heading inline">
+          <div>
+            <p class="eyebrow">Market action plan</p>
+            <h2>Where growth is operationally usable</h2>
+          </div>
+          <span class="pill">Demand, occupancy, capacity, competitor gap</span>
+        </div>
+        <div class="market-table" id="market-table"></div>
+      </section>
     </section>
-    <section class="readout">
-      <article>
-        <p class="label">What the data says</p>
-        <div id="insights"></div>
-      </article>
-      <article>
-        <p class="label">Recommendation</p>
-        <div id="recommendations"></div>
-      </article>
+
+    <section class="surface" id="experiments">
+      <div class="two-column experiment-layout">
+        <section class="panel">
+          <div class="panel-heading">
+            <p class="eyebrow">A/B prioritization</p>
+            <h2>Impact and confidence matrix</h2>
+          </div>
+          <div class="matrix" id="matrix" aria-label="Experiment priority matrix"></div>
+        </section>
+
+        <section class="panel selected-experiment">
+          <div class="panel-heading">
+            <p class="eyebrow" id="experiment-id"></p>
+            <h2 id="experiment-title"></h2>
+          </div>
+          <p id="experiment-hypothesis" class="body-copy"></p>
+          <div class="experiment-metrics" id="experiment-metrics"></div>
+        </section>
+      </div>
+
+      <div class="two-column">
+        <section class="panel">
+          <div class="panel-heading">
+            <p class="eyebrow">Test design</p>
+            <h2>Measurement plan and guardrails</h2>
+          </div>
+          <div class="test-plan" id="test-plan"></div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <p class="eyebrow">Stakeholder readout</p>
+            <h2>Insights and recommendation</h2>
+          </div>
+          <div class="readout" id="readout"></div>
+        </section>
+      </div>
+    </section>
+
+    <section class="surface" id="operations">
+      <div class="two-column">
+        <section class="panel">
+          <div class="panel-heading">
+            <p class="eyebrow">Pipeline reliability</p>
+            <h2>Source freshness and completeness</h2>
+          </div>
+          <div class="ops-list" id="ops-list"></div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <p class="eyebrow">Tracking QA</p>
+            <h2>Checks before executives see the numbers</h2>
+          </div>
+          <div class="quality-list" id="quality-list"></div>
+        </section>
+      </div>
+
+      <section class="panel">
+        <div class="panel-heading inline">
+          <div>
+            <p class="eyebrow">Automation logic</p>
+            <h2>How the analyst workbench would scale</h2>
+          </div>
+          <span class="pill">Python, SQL, BI extracts</span>
+        </div>
+        <div class="automation-grid">
+          <article>
+            <strong>Ingest</strong>
+            <p>Pull channel, reservation, inventory, experiment, and competitor files into a curated daily table.</p>
+          </article>
+          <article>
+            <strong>Validate</strong>
+            <p>Run event coverage, freshness, join, and holdout checks before dashboard refresh.</p>
+          </article>
+          <article>
+            <strong>Prioritize</strong>
+            <p>Score experiments with impact, confidence, effort, capacity fit, and competitor risk.</p>
+          </article>
+          <article>
+            <strong>Publish</strong>
+            <p>Send executive-ready metrics and exception notes to the BI layer each morning.</p>
+          </article>
+        </div>
+      </section>
     </section>
   </main>
+
   <script src="src/data.js"></script>
   <script src="src/app.js"></script>
 </body>
