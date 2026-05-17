@@ -32,6 +32,7 @@ This is an ecommerce experimentation lab built around synthetic storage booking,
 - `index.html` - interactive experiment lab
 - `src/` - synthetic data, interaction logic, and styling
 - `data/` - synthetic operating data
+- `analysis/` - methodology, executive findings, SQL checks, and ranked analytical outputs
 - `analysis/methodology.md` - prioritization method
 - `scripts/score_operating_data.py` - experiment scoring script
 - `docs/images/dashboard.png` - rendered screenshot
