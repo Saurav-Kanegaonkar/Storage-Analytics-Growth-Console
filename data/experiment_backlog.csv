@@ -1,0 +1,19 @@
+experiment_id,idea,impact_score,confidence_score,effort_score,primary_metric
+EXP001,Mobile unit selector,45,87,16,wasted_spend
+EXP002,Checkout simplification,47,81,55,quote_start_rate
+EXP003,Market capacity warning,82,75,20,repeat_booking_rate
+EXP004,Competitor price guardrail,82,74,48,booking_conversion
+EXP005,Landing page proof module,43,65,32,wasted_spend
+EXP006,Landing page proof module,64,55,29,wasted_spend
+EXP007,Checkout simplification,89,71,28,quote_start_rate
+EXP008,Competitor price guardrail,51,67,50,quote_start_rate
+EXP009,Mobile unit selector,43,79,21,booking_conversion
+EXP010,Competitor price guardrail,90,73,51,booking_conversion
+EXP011,Landing page proof module,55,79,33,wasted_spend
+EXP012,Market capacity warning,92,54,55,booking_conversion
+EXP013,Competitor price guardrail,49,72,35,booking_conversion
+EXP014,Competitor price guardrail,70,74,57,quote_start_rate
+EXP015,Competitor price guardrail,67,75,34,wasted_spend
+EXP016,Competitor price guardrail,46,82,45,repeat_booking_rate
+EXP017,Competitor price guardrail,46,88,15,repeat_booking_rate
+EXP018,Checkout simplification,44,56,33,booking_conversion

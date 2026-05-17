@@ -1,0 +1,1601 @@
+scrape_date,market_id,competitor,unit_size,monthly_price,promo_offer
+2026-01-01,M001,CubeSmart,10x20,85,First month free
+2026-01-02,M002,Public Storage,10x20,79,50% off
+2026-01-03,M003,Extra Space,5x10,233,First month free
+2026-01-04,M004,Public Storage,10x10,220,First month free
+2026-01-05,M005,Life Storage,5x10,211,$1 move-in
+2026-01-06,M006,CubeSmart,10x10,43,50% off
+2026-01-07,M007,CubeSmart,5x10,176,$1 move-in
+2026-01-08,M008,Public Storage,5x5,287,$1 move-in
+2026-01-09,M009,Public Storage,5x10,103,50% off
+2026-01-10,M010,Public Storage,5x5,154,50% off
+2026-01-11,M011,Extra Space,5x5,261,None
+2026-01-12,M012,Extra Space,5x5,253,First month free
+2026-01-13,M013,Public Storage,5x5,81,None
+2026-01-14,M014,Public Storage,5x5,254,$1 move-in
+2026-01-15,M015,Life Storage,10x10,143,$1 move-in
+2026-01-16,M016,Public Storage,5x5,132,None
+2026-01-17,M017,Public Storage,10x10,95,50% off
+2026-01-18,M018,Life Storage,5x5,70,None
+2026-01-19,M019,CubeSmart,5x10,166,First month free
+2026-01-20,M020,Public Storage,10x10,260,First month free
+2026-01-21,M001,CubeSmart,5x5,112,$1 move-in
+2026-01-22,M002,CubeSmart,5x10,90,$1 move-in
+2026-01-23,M003,Life Storage,10x10,266,50% off
+2026-01-24,M004,Life Storage,5x10,200,50% off
+2026-01-25,M005,Public Storage,5x10,259,$1 move-in
+2026-01-26,M006,Life Storage,10x20,221,$1 move-in
+2026-01-27,M007,Life Storage,5x5,110,First month free
+2026-01-28,M008,CubeSmart,10x10,116,First month free
+2026-01-29,M009,Extra Space,5x10,213,None
+2026-01-30,M010,Extra Space,10x10,176,$1 move-in
+2026-01-31,M011,Extra Space,5x5,228,50% off
+2026-02-01,M012,Extra Space,10x10,170,50% off
+2026-02-02,M013,Extra Space,5x5,89,None
+2026-02-03,M014,Life Storage,5x5,107,$1 move-in
+2026-02-04,M015,Public Storage,5x10,167,$1 move-in
+2026-02-05,M016,Extra Space,5x5,166,50% off
+2026-02-06,M017,Life Storage,5x10,79,First month free
+2026-02-07,M018,Extra Space,5x10,249,$1 move-in
+2026-02-08,M019,CubeSmart,10x10,120,None
+2026-02-09,M020,Public Storage,10x10,186,None
+2026-02-10,M001,Public Storage,5x10,101,First month free
+2026-02-11,M002,Life Storage,5x10,69,$1 move-in
+2026-02-12,M003,Life Storage,10x10,73,None
+2026-02-13,M004,Life Storage,5x10,232,$1 move-in
+2026-02-14,M005,Public Storage,10x20,183,50% off
+2026-02-15,M006,Life Storage,10x10,139,50% off
+2026-02-16,M007,Extra Space,10x10,191,$1 move-in
+2026-02-17,M008,Public Storage,10x20,120,None
+2026-02-18,M009,Life Storage,10x20,106,First month free
+2026-02-19,M010,Public Storage,10x10,47,50% off
+2026-02-20,M011,Public Storage,10x20,218,$1 move-in
+2026-02-21,M012,Public Storage,5x5,111,50% off
+2026-02-22,M013,Extra Space,5x10,288,$1 move-in
+2026-02-23,M014,Extra Space,5x10,268,None
+2026-02-24,M015,Public Storage,5x10,107,None
+2026-02-25,M016,Life Storage,10x20,63,$1 move-in
+2026-02-26,M017,CubeSmart,10x10,193,First month free
+2026-02-27,M018,Extra Space,5x10,79,First month free
+2026-02-28,M019,CubeSmart,5x10,162,50% off
+2026-03-01,M020,Extra Space,10x20,64,None
+2026-03-02,M001,CubeSmart,5x10,196,First month free
+2026-03-03,M002,Public Storage,10x10,167,First month free
+2026-03-04,M003,Extra Space,5x10,186,None
+2026-03-05,M004,Life Storage,5x10,78,$1 move-in
+2026-03-06,M005,Public Storage,10x10,243,None
+2026-03-07,M006,Public Storage,5x5,52,First month free
+2026-03-08,M007,Extra Space,5x10,117,$1 move-in
+2026-03-09,M008,Life Storage,5x5,81,50% off
+2026-03-10,M009,CubeSmart,10x20,235,$1 move-in
+2026-03-11,M010,Extra Space,10x10,203,None
+2026-03-12,M011,CubeSmart,5x10,163,$1 move-in
+2026-03-13,M012,Public Storage,5x10,203,First month free
+2026-03-14,M013,Extra Space,5x5,169,First month free
+2026-03-15,M014,Public Storage,5x5,198,None
+2026-03-16,M015,CubeSmart,10x10,206,None
+2026-03-17,M016,CubeSmart,5x5,124,First month free
+2026-03-18,M017,CubeSmart,5x10,275,50% off
+2026-03-19,M018,Extra Space,10x20,101,50% off
+2026-03-20,M019,Life Storage,5x10,180,First month free
+2026-03-21,M020,CubeSmart,10x20,201,$1 move-in
+2026-03-22,M001,Extra Space,10x20,167,None
+2026-03-23,M002,CubeSmart,10x10,103,$1 move-in
+2026-03-24,M003,Life Storage,10x10,217,$1 move-in
+2026-03-25,M004,Extra Space,10x20,126,None
+2026-03-26,M005,Life Storage,5x5,220,$1 move-in
+2026-03-27,M006,Public Storage,10x20,173,First month free
+2026-03-28,M007,Public Storage,5x5,288,None
+2026-03-29,M008,CubeSmart,10x10,53,$1 move-in
+2026-03-30,M009,Public Storage,10x10,221,First month free
+2026-03-31,M010,CubeSmart,5x5,191,None
+2026-04-01,M011,Life Storage,10x20,96,50% off
+2026-04-02,M012,Life Storage,10x20,243,First month free
+2026-04-03,M013,Extra Space,10x20,255,First month free
+2026-04-04,M014,Life Storage,10x20,89,First month free
+2026-04-05,M015,Extra Space,10x10,203,First month free
+2026-04-06,M016,Life Storage,5x10,211,$1 move-in
+2026-04-07,M017,Public Storage,5x5,101,$1 move-in
+2026-04-08,M018,CubeSmart,10x20,240,First month free
+2026-04-09,M019,Public Storage,10x20,193,$1 move-in
+2026-04-10,M020,Life Storage,5x5,108,$1 move-in
+2026-04-11,M001,Life Storage,10x10,109,First month free
+2026-04-12,M002,Extra Space,5x5,109,$1 move-in
+2026-04-13,M003,Public Storage,10x20,46,$1 move-in
+2026-04-14,M004,Extra Space,5x10,110,$1 move-in
+2026-04-15,M005,Life Storage,10x20,108,$1 move-in
+2026-04-16,M006,Life Storage,10x10,127,50% off
+2026-04-17,M007,Life Storage,10x20,277,None
+2026-04-18,M008,Life Storage,5x10,69,None
+2026-04-19,M009,Extra Space,5x10,283,$1 move-in
+2026-04-20,M010,CubeSmart,5x5,96,50% off
+2026-04-21,M011,Extra Space,10x10,98,50% off
+2026-04-22,M012,Public Storage,10x10,144,First month free
+2026-04-23,M013,Life Storage,10x20,81,50% off
+2026-04-24,M014,CubeSmart,5x5,71,None
+2026-04-25,M015,Life Storage,10x10,274,$1 move-in
+2026-04-26,M016,CubeSmart,5x5,199,None
+2026-04-27,M017,Public Storage,5x10,79,None
+2026-04-28,M018,Life Storage,10x20,254,None
+2026-04-29,M019,Extra Space,5x5,54,50% off
+2026-04-30,M020,CubeSmart,5x10,189,First month free
+2026-01-01,M001,CubeSmart,10x20,144,None
+2026-01-02,M002,Life Storage,10x20,141,None
+2026-01-03,M003,Public Storage,10x10,269,First month free
+2026-01-04,M004,Extra Space,5x10,51,50% off
+2026-01-05,M005,CubeSmart,5x5,69,First month free
+2026-01-06,M006,Public Storage,5x5,146,50% off
+2026-01-07,M007,Life Storage,10x10,264,50% off
+2026-01-08,M008,CubeSmart,5x5,92,50% off
+2026-01-09,M009,CubeSmart,10x10,206,$1 move-in
+2026-01-10,M010,Life Storage,10x10,256,None
+2026-01-11,M011,Life Storage,5x5,258,First month free
+2026-01-12,M012,Life Storage,5x10,139,$1 move-in
+2026-01-13,M013,Extra Space,10x10,120,$1 move-in
+2026-01-14,M014,CubeSmart,5x5,170,None
+2026-01-15,M015,Life Storage,10x20,248,First month free
+2026-01-16,M016,Public Storage,5x10,169,First month free
+2026-01-17,M017,Extra Space,5x5,212,First month free
+2026-01-18,M018,Life Storage,10x20,182,First month free
+2026-01-19,M019,Extra Space,5x5,148,First month free
+2026-01-20,M020,Public Storage,10x20,208,50% off
+2026-01-21,M001,Public Storage,5x5,131,50% off
+2026-01-22,M002,Public Storage,5x5,80,First month free
+2026-01-23,M003,CubeSmart,5x5,177,None
+2026-01-24,M004,Extra Space,5x10,214,First month free
+2026-01-25,M005,Extra Space,10x10,142,$1 move-in
+2026-01-26,M006,Extra Space,10x20,278,50% off
+2026-01-27,M007,Extra Space,5x10,252,50% off
+2026-01-28,M008,CubeSmart,5x10,223,$1 move-in
+2026-01-29,M009,Public Storage,10x10,284,None
+2026-01-30,M010,Public Storage,10x20,221,$1 move-in
+2026-01-31,M011,Extra Space,10x10,133,First month free
+2026-02-01,M012,Life Storage,5x10,239,First month free
+2026-02-02,M013,Public Storage,5x5,257,First month free
+2026-02-03,M014,Public Storage,5x5,258,First month free
+2026-02-04,M015,Public Storage,5x5,51,50% off
+2026-02-05,M016,CubeSmart,5x10,124,First month free
+2026-02-06,M017,Public Storage,10x20,56,First month free
+2026-02-07,M018,CubeSmart,5x5,46,$1 move-in
+2026-02-08,M019,CubeSmart,10x10,110,None
+2026-02-09,M020,Public Storage,10x20,232,$1 move-in
+2026-02-10,M001,CubeSmart,10x10,112,$1 move-in
+2026-02-11,M002,CubeSmart,5x5,178,50% off
+2026-02-12,M003,Extra Space,10x10,176,None
+2026-02-13,M004,Life Storage,5x10,68,$1 move-in
+2026-02-14,M005,CubeSmart,5x5,192,First month free
+2026-02-15,M006,Public Storage,5x10,93,First month free
+2026-02-16,M007,Public Storage,5x5,262,First month free
+2026-02-17,M008,CubeSmart,5x5,153,$1 move-in
+2026-02-18,M009,CubeSmart,5x10,284,First month free
+2026-02-19,M010,Public Storage,5x5,194,50% off
+2026-02-20,M011,CubeSmart,5x5,177,None
+2026-02-21,M012,Public Storage,5x10,188,None
+2026-02-22,M013,Public Storage,10x10,238,$1 move-in
+2026-02-23,M014,Life Storage,5x10,256,None
+2026-02-24,M015,CubeSmart,10x10,157,None
+2026-02-25,M016,Extra Space,10x20,181,None
+2026-02-26,M017,CubeSmart,5x5,152,$1 move-in
+2026-02-27,M018,Extra Space,5x5,60,50% off
+2026-02-28,M019,Public Storage,10x20,260,First month free
+2026-03-01,M020,Life Storage,5x5,93,None
+2026-03-02,M001,Extra Space,5x10,267,First month free
+2026-03-03,M002,CubeSmart,5x10,275,50% off
+2026-03-04,M003,Public Storage,10x10,264,First month free
+2026-03-05,M004,Life Storage,10x20,222,$1 move-in
+2026-03-06,M005,CubeSmart,10x10,115,First month free
+2026-03-07,M006,Public Storage,10x20,124,First month free
+2026-03-08,M007,Life Storage,5x10,46,None
+2026-03-09,M008,Public Storage,10x10,109,$1 move-in
+2026-03-10,M009,Public Storage,10x10,141,First month free
+2026-03-11,M010,Life Storage,5x5,239,$1 move-in
+2026-03-12,M011,Public Storage,5x5,221,None
+2026-03-13,M012,Public Storage,10x20,155,$1 move-in
+2026-03-14,M013,CubeSmart,5x5,114,None
+2026-03-15,M014,Life Storage,5x5,87,$1 move-in
+2026-03-16,M015,Life Storage,10x20,55,None
+2026-03-17,M016,Extra Space,5x5,284,First month free
+2026-03-18,M017,CubeSmart,10x10,251,None
+2026-03-19,M018,Life Storage,10x10,82,None
+2026-03-20,M019,CubeSmart,10x10,74,First month free
+2026-03-21,M020,Extra Space,10x10,78,None
+2026-03-22,M001,Life Storage,5x10,125,50% off
+2026-03-23,M002,Life Storage,5x10,243,First month free
+2026-03-24,M003,Extra Space,10x10,227,None
+2026-03-25,M004,CubeSmart,5x5,150,None
+2026-03-26,M005,Life Storage,10x10,281,50% off
+2026-03-27,M006,Life Storage,10x10,84,None
+2026-03-28,M007,CubeSmart,10x20,271,First month free
+2026-03-29,M008,CubeSmart,10x20,63,First month free
+2026-03-30,M009,Extra Space,5x10,158,None
+2026-03-31,M010,Public Storage,5x5,239,None
+2026-04-01,M011,CubeSmart,5x10,162,First month free
+2026-04-02,M012,CubeSmart,5x10,197,None
+2026-04-03,M013,Extra Space,5x5,198,$1 move-in
+2026-04-04,M014,Life Storage,5x5,126,$1 move-in
+2026-04-05,M015,Life Storage,10x10,186,None
+2026-04-06,M016,CubeSmart,5x5,155,First month free
+2026-04-07,M017,CubeSmart,10x10,259,$1 move-in
+2026-04-08,M018,Public Storage,5x5,67,None
+2026-04-09,M019,Public Storage,10x20,116,$1 move-in
+2026-04-10,M020,Life Storage,5x10,146,First month free
+2026-04-11,M001,Life Storage,5x10,248,First month free
+2026-04-12,M002,Extra Space,10x10,187,None
+2026-04-13,M003,Public Storage,5x5,90,$1 move-in
+2026-04-14,M004,Extra Space,10x20,125,None
+2026-04-15,M005,CubeSmart,10x20,260,First month free
+2026-04-16,M006,Life Storage,10x20,62,50% off
+2026-04-17,M007,CubeSmart,10x20,254,$1 move-in
+2026-04-18,M008,Extra Space,10x10,187,None
+2026-04-19,M009,Public Storage,10x10,221,None
+2026-04-20,M010,Extra Space,5x10,93,First month free
+2026-04-21,M011,Extra Space,10x10,165,$1 move-in
+2026-04-22,M012,Public Storage,10x20,209,First month free
+2026-04-23,M013,CubeSmart,5x10,276,50% off
+2026-04-24,M014,Public Storage,10x10,161,None
+2026-04-25,M015,Public Storage,5x10,160,None
+2026-04-26,M016,Extra Space,10x10,235,$1 move-in
+2026-04-27,M017,CubeSmart,5x10,186,$1 move-in
+2026-04-28,M018,Life Storage,5x10,263,First month free
+2026-04-29,M019,CubeSmart,10x10,260,$1 move-in
+2026-04-30,M020,Life Storage,5x10,125,$1 move-in
+2026-01-01,M001,CubeSmart,10x10,209,None
+2026-01-02,M002,Extra Space,10x20,152,First month free
+2026-01-03,M003,CubeSmart,5x5,68,$1 move-in
+2026-01-04,M004,Public Storage,10x20,180,None
+2026-01-05,M005,Extra Space,5x5,250,First month free
+2026-01-06,M006,Extra Space,10x10,223,None
+2026-01-07,M007,Extra Space,10x20,134,50% off
+2026-01-08,M008,Life Storage,10x20,56,First month free
+2026-01-09,M009,Extra Space,5x5,244,None
+2026-01-10,M010,Public Storage,5x5,165,50% off
+2026-01-11,M011,CubeSmart,5x10,125,None
+2026-01-12,M012,CubeSmart,10x10,129,$1 move-in
+2026-01-13,M013,Public Storage,5x10,56,50% off
+2026-01-14,M014,CubeSmart,10x10,91,None
+2026-01-15,M015,Public Storage,10x20,196,$1 move-in
+2026-01-16,M016,CubeSmart,10x20,158,50% off
+2026-01-17,M017,CubeSmart,10x10,105,None
+2026-01-18,M018,Public Storage,5x10,180,50% off
+2026-01-19,M019,Life Storage,5x5,141,None
+2026-01-20,M020,Public Storage,10x10,163,$1 move-in
+2026-01-21,M001,Public Storage,10x10,274,None
+2026-01-22,M002,CubeSmart,5x5,80,50% off
+2026-01-23,M003,CubeSmart,10x10,275,50% off
+2026-01-24,M004,CubeSmart,5x10,68,None
+2026-01-25,M005,Life Storage,10x10,46,$1 move-in
+2026-01-26,M006,CubeSmart,5x5,274,$1 move-in
+2026-01-27,M007,Life Storage,5x5,86,50% off
+2026-01-28,M008,Public Storage,10x20,90,First month free
+2026-01-29,M009,Life Storage,10x10,125,$1 move-in
+2026-01-30,M010,Extra Space,5x5,252,None
+2026-01-31,M011,CubeSmart,5x10,110,50% off
+2026-02-01,M012,Public Storage,5x5,135,$1 move-in
+2026-02-02,M013,Extra Space,5x5,107,First month free
+2026-02-03,M014,Public Storage,10x10,126,First month free
+2026-02-04,M015,Life Storage,10x10,87,None
+2026-02-05,M016,CubeSmart,10x10,185,$1 move-in
+2026-02-06,M017,CubeSmart,5x10,100,None
+2026-02-07,M018,CubeSmart,10x10,275,First month free
+2026-02-08,M019,CubeSmart,5x10,93,First month free
+2026-02-09,M020,Public Storage,10x20,188,50% off
+2026-02-10,M001,CubeSmart,5x10,119,None
+2026-02-11,M002,Life Storage,10x10,251,None
+2026-02-12,M003,Life Storage,10x20,182,First month free
+2026-02-13,M004,Life Storage,5x5,199,None
+2026-02-14,M005,CubeSmart,5x10,230,50% off
+2026-02-15,M006,Life Storage,10x10,155,$1 move-in
+2026-02-16,M007,Life Storage,10x20,279,None
+2026-02-17,M008,CubeSmart,5x10,274,50% off
+2026-02-18,M009,CubeSmart,5x10,191,$1 move-in
+2026-02-19,M010,Life Storage,10x20,276,$1 move-in
+2026-02-20,M011,Extra Space,5x10,73,None
+2026-02-21,M012,Public Storage,10x20,108,50% off
+2026-02-22,M013,Extra Space,10x20,87,First month free
+2026-02-23,M014,CubeSmart,10x10,246,First month free
+2026-02-24,M015,Public Storage,5x10,142,First month free
+2026-02-25,M016,CubeSmart,5x10,168,50% off
+2026-02-26,M017,Life Storage,5x5,222,$1 move-in
+2026-02-27,M018,CubeSmart,10x20,168,50% off
+2026-02-28,M019,CubeSmart,5x10,116,$1 move-in
+2026-03-01,M020,Life Storage,5x10,103,First month free
+2026-03-02,M001,Life Storage,5x10,268,First month free
+2026-03-03,M002,CubeSmart,10x20,256,$1 move-in
+2026-03-04,M003,Public Storage,5x5,54,$1 move-in
+2026-03-05,M004,Public Storage,10x20,113,$1 move-in
+2026-03-06,M005,Extra Space,10x10,146,First month free
+2026-03-07,M006,Extra Space,5x5,239,50% off
+2026-03-08,M007,Life Storage,5x10,83,First month free
+2026-03-09,M008,Extra Space,5x10,104,First month free
+2026-03-10,M009,Life Storage,10x20,166,First month free
+2026-03-11,M010,Life Storage,10x10,236,$1 move-in
+2026-03-12,M011,CubeSmart,5x10,50,50% off
+2026-03-13,M012,CubeSmart,5x10,74,$1 move-in
+2026-03-14,M013,Public Storage,10x10,178,None
+2026-03-15,M014,CubeSmart,5x5,157,None
+2026-03-16,M015,Extra Space,10x10,151,$1 move-in
+2026-03-17,M016,Life Storage,5x5,251,$1 move-in
+2026-03-18,M017,Extra Space,5x10,200,None
+2026-03-19,M018,Life Storage,5x5,87,$1 move-in
+2026-03-20,M019,Public Storage,5x5,80,None
+2026-03-21,M020,Public Storage,10x10,241,50% off
+2026-03-22,M001,Public Storage,10x20,72,None
+2026-03-23,M002,Extra Space,5x10,180,$1 move-in
+2026-03-24,M003,CubeSmart,10x10,161,None
+2026-03-25,M004,Extra Space,5x10,161,50% off
+2026-03-26,M005,Public Storage,5x5,80,$1 move-in
+2026-03-27,M006,Public Storage,10x10,54,50% off
+2026-03-28,M007,CubeSmart,5x5,248,None
+2026-03-29,M008,Public Storage,5x10,279,First month free
+2026-03-30,M009,Life Storage,10x20,114,None
+2026-03-31,M010,Public Storage,5x5,168,$1 move-in
+2026-04-01,M011,Life Storage,5x5,113,First month free
+2026-04-02,M012,Public Storage,10x10,167,50% off
+2026-04-03,M013,Public Storage,10x10,47,First month free
+2026-04-04,M014,CubeSmart,10x20,230,None
+2026-04-05,M015,Life Storage,5x10,78,$1 move-in
+2026-04-06,M016,Extra Space,10x20,74,None
+2026-04-07,M017,CubeSmart,10x20,128,50% off
+2026-04-08,M018,Public Storage,10x20,77,None
+2026-04-09,M019,Public Storage,5x10,166,First month free
+2026-04-10,M020,CubeSmart,5x5,80,First month free
+2026-04-11,M001,Public Storage,5x10,128,50% off
+2026-04-12,M002,Public Storage,5x10,64,$1 move-in
+2026-04-13,M003,Extra Space,5x10,239,50% off
+2026-04-14,M004,CubeSmart,10x10,228,$1 move-in
+2026-04-15,M005,Life Storage,10x20,222,50% off
+2026-04-16,M006,Extra Space,10x10,209,None
+2026-04-17,M007,Extra Space,10x20,141,50% off
+2026-04-18,M008,CubeSmart,5x5,177,50% off
+2026-04-19,M009,CubeSmart,5x10,139,50% off
+2026-04-20,M010,Extra Space,10x10,91,$1 move-in
+2026-04-21,M011,Extra Space,10x10,77,None
+2026-04-22,M012,Life Storage,5x5,78,50% off
+2026-04-23,M013,Extra Space,10x10,43,50% off
+2026-04-24,M014,Extra Space,5x5,219,$1 move-in
+2026-04-25,M015,CubeSmart,5x10,266,First month free
+2026-04-26,M016,Extra Space,10x20,217,None
+2026-04-27,M017,CubeSmart,10x10,177,$1 move-in
+2026-04-28,M018,CubeSmart,5x10,199,50% off
+2026-04-29,M019,Extra Space,10x10,84,First month free
+2026-04-30,M020,CubeSmart,5x10,171,$1 move-in
+2026-01-01,M001,Public Storage,10x10,262,First month free
+2026-01-02,M002,Public Storage,10x20,106,First month free
+2026-01-03,M003,Public Storage,10x20,186,None
+2026-01-04,M004,Life Storage,10x20,176,First month free
+2026-01-05,M005,Life Storage,5x10,128,First month free
+2026-01-06,M006,Extra Space,10x10,128,$1 move-in
+2026-01-07,M007,Public Storage,5x10,169,None
+2026-01-08,M008,CubeSmart,5x10,284,First month free
+2026-01-09,M009,Life Storage,10x10,101,50% off
+2026-01-10,M010,CubeSmart,10x10,213,$1 move-in
+2026-01-11,M011,Life Storage,5x10,198,$1 move-in
+2026-01-12,M012,Life Storage,5x5,252,First month free
+2026-01-13,M013,Public Storage,5x5,156,First month free
+2026-01-14,M014,Extra Space,5x5,207,First month free
+2026-01-15,M015,CubeSmart,5x5,152,50% off
+2026-01-16,M016,Life Storage,10x20,171,None
+2026-01-17,M017,Life Storage,10x20,54,First month free
+2026-01-18,M018,Life Storage,5x10,239,None
+2026-01-19,M019,CubeSmart,10x20,262,First month free
+2026-01-20,M020,CubeSmart,5x5,119,50% off
+2026-01-21,M001,Extra Space,5x10,219,None
+2026-01-22,M002,Extra Space,10x20,120,50% off
+2026-01-23,M003,Public Storage,5x5,259,First month free
+2026-01-24,M004,CubeSmart,10x10,48,$1 move-in
+2026-01-25,M005,Life Storage,10x20,153,50% off
+2026-01-26,M006,Public Storage,10x20,225,50% off
+2026-01-27,M007,Extra Space,10x10,252,First month free
+2026-01-28,M008,Extra Space,5x10,170,50% off
+2026-01-29,M009,CubeSmart,5x10,56,None
+2026-01-30,M010,CubeSmart,10x10,144,First month free
+2026-01-31,M011,CubeSmart,10x10,132,First month free
+2026-02-01,M012,Public Storage,5x5,108,50% off
+2026-02-02,M013,Extra Space,10x10,221,$1 move-in
+2026-02-03,M014,Extra Space,5x10,62,50% off
+2026-02-04,M015,Public Storage,5x10,198,50% off
+2026-02-05,M016,Extra Space,10x10,272,None
+2026-02-06,M017,Life Storage,10x10,187,$1 move-in
+2026-02-07,M018,CubeSmart,5x5,154,First month free
+2026-02-08,M019,Extra Space,10x20,67,50% off
+2026-02-09,M020,Public Storage,10x20,267,50% off
+2026-02-10,M001,Life Storage,5x5,113,None
+2026-02-11,M002,CubeSmart,10x20,232,First month free
+2026-02-12,M003,Life Storage,10x20,42,First month free
+2026-02-13,M004,Life Storage,5x5,267,First month free
+2026-02-14,M005,Life Storage,10x20,176,First month free
+2026-02-15,M006,Extra Space,10x10,127,First month free
+2026-02-16,M007,Life Storage,5x10,270,None
+2026-02-17,M008,CubeSmart,5x5,168,$1 move-in
+2026-02-18,M009,Life Storage,10x20,214,50% off
+2026-02-19,M010,CubeSmart,5x5,79,50% off
+2026-02-20,M011,CubeSmart,10x10,132,$1 move-in
+2026-02-21,M012,Extra Space,10x10,218,First month free
+2026-02-22,M013,Extra Space,5x10,116,None
+2026-02-23,M014,CubeSmart,10x10,132,First month free
+2026-02-24,M015,Public Storage,5x10,117,None
+2026-02-25,M016,Public Storage,10x10,170,$1 move-in
+2026-02-26,M017,Life Storage,5x10,203,$1 move-in
+2026-02-27,M018,Public Storage,10x20,276,50% off
+2026-02-28,M019,Public Storage,10x10,230,None
+2026-03-01,M020,Extra Space,5x10,160,50% off
+2026-03-02,M001,Life Storage,5x5,136,50% off
+2026-03-03,M002,CubeSmart,10x20,90,50% off
+2026-03-04,M003,Extra Space,5x10,131,First month free
+2026-03-05,M004,Life Storage,10x10,108,50% off
+2026-03-06,M005,Life Storage,10x10,287,First month free
+2026-03-07,M006,Extra Space,5x10,114,$1 move-in
+2026-03-08,M007,Life Storage,10x10,261,$1 move-in
+2026-03-09,M008,Life Storage,10x20,100,First month free
+2026-03-10,M009,Life Storage,5x10,151,First month free
+2026-03-11,M010,Life Storage,10x10,264,First month free
+2026-03-12,M011,Public Storage,10x10,252,None
+2026-03-13,M012,Life Storage,10x10,285,50% off
+2026-03-14,M013,Life Storage,5x5,213,50% off
+2026-03-15,M014,Public Storage,5x5,213,First month free
+2026-03-16,M015,Extra Space,10x20,57,$1 move-in
+2026-03-17,M016,Public Storage,5x10,267,None
+2026-03-18,M017,Public Storage,10x20,111,$1 move-in
+2026-03-19,M018,CubeSmart,10x20,274,50% off
+2026-03-20,M019,CubeSmart,5x5,84,None
+2026-03-21,M020,Extra Space,10x10,237,50% off
+2026-03-22,M001,Life Storage,10x20,258,None
+2026-03-23,M002,Public Storage,5x5,55,$1 move-in
+2026-03-24,M003,Public Storage,10x20,105,$1 move-in
+2026-03-25,M004,CubeSmart,10x20,121,None
+2026-03-26,M005,Life Storage,5x10,250,First month free
+2026-03-27,M006,CubeSmart,5x5,82,None
+2026-03-28,M007,Life Storage,10x20,131,$1 move-in
+2026-03-29,M008,Public Storage,5x10,213,50% off
+2026-03-30,M009,Public Storage,5x10,241,50% off
+2026-03-31,M010,Life Storage,10x10,206,$1 move-in
+2026-04-01,M011,Life Storage,5x10,62,None
+2026-04-02,M012,CubeSmart,5x10,81,First month free
+2026-04-03,M013,Extra Space,10x20,93,$1 move-in
+2026-04-04,M014,Public Storage,5x5,241,50% off
+2026-04-05,M015,CubeSmart,5x10,67,50% off
+2026-04-06,M016,Public Storage,10x10,188,$1 move-in
+2026-04-07,M017,Life Storage,10x20,260,First month free
+2026-04-08,M018,CubeSmart,5x10,96,$1 move-in
+2026-04-09,M019,Public Storage,5x5,235,First month free
+2026-04-10,M020,Life Storage,5x5,50,First month free
+2026-04-11,M001,Life Storage,10x10,190,First month free
+2026-04-12,M002,Life Storage,10x20,166,$1 move-in
+2026-04-13,M003,Public Storage,10x10,217,First month free
+2026-04-14,M004,Extra Space,10x20,110,50% off
+2026-04-15,M005,Extra Space,10x10,201,50% off
+2026-04-16,M006,Extra Space,5x5,235,First month free
+2026-04-17,M007,CubeSmart,10x20,104,First month free
+2026-04-18,M008,Life Storage,10x20,145,$1 move-in
+2026-04-19,M009,Life Storage,10x20,134,$1 move-in
+2026-04-20,M010,CubeSmart,10x20,109,$1 move-in
+2026-04-21,M011,CubeSmart,5x10,77,None
+2026-04-22,M012,CubeSmart,10x20,148,$1 move-in
+2026-04-23,M013,Extra Space,5x10,234,First month free
+2026-04-24,M014,CubeSmart,5x10,247,First month free
+2026-04-25,M015,CubeSmart,5x10,46,First month free
+2026-04-26,M016,CubeSmart,10x10,214,First month free
+2026-04-27,M017,Extra Space,5x10,52,None
+2026-04-28,M018,Life Storage,5x10,172,50% off
+2026-04-29,M019,Extra Space,10x10,42,50% off
+2026-04-30,M020,Extra Space,10x20,195,First month free
+2026-01-01,M001,CubeSmart,5x10,68,$1 move-in
+2026-01-02,M002,Extra Space,10x10,94,50% off
+2026-01-03,M003,Public Storage,10x10,105,First month free
+2026-01-04,M004,Life Storage,5x10,75,50% off
+2026-01-05,M005,Extra Space,10x10,101,First month free
+2026-01-06,M006,CubeSmart,5x10,58,First month free
+2026-01-07,M007,Public Storage,10x20,174,First month free
+2026-01-08,M008,CubeSmart,5x5,118,None
+2026-01-09,M009,Life Storage,10x20,188,None
+2026-01-10,M010,Extra Space,5x5,85,$1 move-in
+2026-01-11,M011,CubeSmart,5x10,232,First month free
+2026-01-12,M012,Extra Space,10x20,261,50% off
+2026-01-13,M013,CubeSmart,5x5,229,First month free
+2026-01-14,M014,CubeSmart,10x10,62,None
+2026-01-15,M015,Life Storage,5x10,194,$1 move-in
+2026-01-16,M016,Life Storage,5x10,253,None
+2026-01-17,M017,CubeSmart,5x5,126,50% off
+2026-01-18,M018,Public Storage,10x10,131,First month free
+2026-01-19,M019,CubeSmart,10x20,46,First month free
+2026-01-20,M020,CubeSmart,5x10,43,None
+2026-01-21,M001,Life Storage,10x10,170,None
+2026-01-22,M002,Public Storage,5x10,82,First month free
+2026-01-23,M003,Extra Space,10x20,233,First month free
+2026-01-24,M004,Extra Space,5x10,164,50% off
+2026-01-25,M005,Life Storage,10x20,190,$1 move-in
+2026-01-26,M006,Public Storage,5x10,239,$1 move-in
+2026-01-27,M007,Public Storage,10x10,65,$1 move-in
+2026-01-28,M008,Public Storage,10x20,146,$1 move-in
+2026-01-29,M009,Extra Space,5x5,187,None
+2026-01-30,M010,Life Storage,10x10,111,None
+2026-01-31,M011,Life Storage,5x5,83,50% off
+2026-02-01,M012,Life Storage,5x5,133,50% off
+2026-02-02,M013,Public Storage,5x5,227,$1 move-in
+2026-02-03,M014,Extra Space,5x10,264,$1 move-in
+2026-02-04,M015,CubeSmart,5x5,221,50% off
+2026-02-05,M016,Life Storage,10x20,282,First month free
+2026-02-06,M017,Life Storage,10x10,84,First month free
+2026-02-07,M018,CubeSmart,10x10,238,First month free
+2026-02-08,M019,Public Storage,10x10,191,None
+2026-02-09,M020,Life Storage,10x10,164,First month free
+2026-02-10,M001,Extra Space,5x10,121,50% off
+2026-02-11,M002,CubeSmart,5x5,161,First month free
+2026-02-12,M003,Life Storage,10x10,114,First month free
+2026-02-13,M004,Life Storage,5x10,134,50% off
+2026-02-14,M005,Public Storage,5x5,194,First month free
+2026-02-15,M006,Life Storage,5x5,156,None
+2026-02-16,M007,Public Storage,10x10,171,$1 move-in
+2026-02-17,M008,Extra Space,10x20,237,First month free
+2026-02-18,M009,Public Storage,10x10,284,None
+2026-02-19,M010,Extra Space,10x20,226,50% off
+2026-02-20,M011,CubeSmart,5x5,242,$1 move-in
+2026-02-21,M012,Extra Space,5x5,100,None
+2026-02-22,M013,Extra Space,10x10,143,None
+2026-02-23,M014,Public Storage,5x10,149,$1 move-in
+2026-02-24,M015,CubeSmart,5x5,46,None
+2026-02-25,M016,CubeSmart,10x20,58,$1 move-in
+2026-02-26,M017,CubeSmart,10x20,174,First month free
+2026-02-27,M018,CubeSmart,10x10,110,$1 move-in
+2026-02-28,M019,CubeSmart,5x10,271,50% off
+2026-03-01,M020,Public Storage,10x20,57,First month free
+2026-03-02,M001,Life Storage,10x10,86,First month free
+2026-03-03,M002,Public Storage,10x10,101,$1 move-in
+2026-03-04,M003,Extra Space,10x10,240,50% off
+2026-03-05,M004,Public Storage,5x5,44,First month free
+2026-03-06,M005,Extra Space,10x20,272,None
+2026-03-07,M006,Life Storage,10x10,57,None
+2026-03-08,M007,CubeSmart,5x10,275,First month free
+2026-03-09,M008,Public Storage,5x10,102,None
+2026-03-10,M009,CubeSmart,5x10,213,None
+2026-03-11,M010,CubeSmart,10x10,242,First month free
+2026-03-12,M011,Extra Space,5x10,105,$1 move-in
+2026-03-13,M012,CubeSmart,10x10,95,50% off
+2026-03-14,M013,Extra Space,10x10,106,First month free
+2026-03-15,M014,Public Storage,5x5,157,None
+2026-03-16,M015,Extra Space,5x10,239,First month free
+2026-03-17,M016,Extra Space,10x20,57,First month free
+2026-03-18,M017,CubeSmart,5x10,255,First month free
+2026-03-19,M018,Extra Space,5x10,156,None
+2026-03-20,M019,CubeSmart,10x20,135,$1 move-in
+2026-03-21,M020,Extra Space,5x10,80,None
+2026-03-22,M001,Public Storage,5x5,228,$1 move-in
+2026-03-23,M002,Extra Space,10x20,106,None
+2026-03-24,M003,CubeSmart,10x20,58,First month free
+2026-03-25,M004,Extra Space,10x10,212,50% off
+2026-03-26,M005,CubeSmart,10x10,225,50% off
+2026-03-27,M006,Extra Space,5x5,265,First month free
+2026-03-28,M007,Public Storage,5x5,243,50% off
+2026-03-29,M008,CubeSmart,10x10,92,First month free
+2026-03-30,M009,Life Storage,5x5,234,$1 move-in
+2026-03-31,M010,Public Storage,10x20,188,50% off
+2026-04-01,M011,Extra Space,10x10,280,$1 move-in
+2026-04-02,M012,Life Storage,5x10,88,$1 move-in
+2026-04-03,M013,Extra Space,5x5,168,First month free
+2026-04-04,M014,Public Storage,5x5,99,$1 move-in
+2026-04-05,M015,Public Storage,10x20,253,First month free
+2026-04-06,M016,Life Storage,5x5,194,$1 move-in
+2026-04-07,M017,Extra Space,5x5,250,None
+2026-04-08,M018,Public Storage,10x20,43,None
+2026-04-09,M019,Extra Space,5x10,129,None
+2026-04-10,M020,CubeSmart,5x5,169,First month free
+2026-04-11,M001,Public Storage,5x5,167,None
+2026-04-12,M002,Public Storage,10x10,273,$1 move-in
+2026-04-13,M003,CubeSmart,10x20,149,None
+2026-04-14,M004,Life Storage,5x5,175,50% off
+2026-04-15,M005,CubeSmart,10x20,192,50% off
+2026-04-16,M006,Extra Space,5x10,151,50% off
+2026-04-17,M007,Extra Space,5x5,223,$1 move-in
+2026-04-18,M008,Extra Space,5x5,170,$1 move-in
+2026-04-19,M009,Public Storage,5x5,92,None
+2026-04-20,M010,Public Storage,10x10,264,First month free
+2026-04-21,M011,CubeSmart,5x5,70,None
+2026-04-22,M012,Public Storage,10x10,47,None
+2026-04-23,M013,Extra Space,10x10,253,None
+2026-04-24,M014,Public Storage,10x10,96,First month free
+2026-04-25,M015,Public Storage,10x10,101,$1 move-in
+2026-04-26,M016,Life Storage,10x20,271,50% off
+2026-04-27,M017,Public Storage,10x10,93,$1 move-in
+2026-04-28,M018,CubeSmart,5x5,138,First month free
+2026-04-29,M019,Extra Space,10x10,69,None
+2026-04-30,M020,Extra Space,5x5,285,First month free
+2026-01-01,M001,CubeSmart,10x10,172,50% off
+2026-01-02,M002,Extra Space,10x10,56,$1 move-in
+2026-01-03,M003,CubeSmart,10x20,203,$1 move-in
+2026-01-04,M004,CubeSmart,5x10,133,First month free
+2026-01-05,M005,Extra Space,10x10,110,50% off
+2026-01-06,M006,Extra Space,5x10,59,First month free
+2026-01-07,M007,Life Storage,10x10,108,50% off
+2026-01-08,M008,Life Storage,5x10,105,First month free
+2026-01-09,M009,Public Storage,5x5,211,50% off
+2026-01-10,M010,Life Storage,5x5,57,First month free
+2026-01-11,M011,Life Storage,10x10,140,$1 move-in
+2026-01-12,M012,Public Storage,5x10,132,50% off
+2026-01-13,M013,Extra Space,10x20,117,None
+2026-01-14,M014,CubeSmart,5x5,287,$1 move-in
+2026-01-15,M015,CubeSmart,10x20,63,First month free
+2026-01-16,M016,Extra Space,10x20,176,First month free
+2026-01-17,M017,Public Storage,5x5,179,$1 move-in
+2026-01-18,M018,Public Storage,10x20,222,None
+2026-01-19,M019,CubeSmart,5x5,174,$1 move-in
+2026-01-20,M020,Life Storage,10x20,120,First month free
+2026-01-21,M001,Extra Space,5x5,121,None
+2026-01-22,M002,Public Storage,10x10,189,$1 move-in
+2026-01-23,M003,Public Storage,5x5,212,50% off
+2026-01-24,M004,Life Storage,5x10,153,50% off
+2026-01-25,M005,CubeSmart,10x20,162,50% off
+2026-01-26,M006,Extra Space,5x10,276,None
+2026-01-27,M007,CubeSmart,10x20,232,None
+2026-01-28,M008,Extra Space,5x10,171,$1 move-in
+2026-01-29,M009,Public Storage,5x10,167,50% off
+2026-01-30,M010,Life Storage,5x10,220,First month free
+2026-01-31,M011,Public Storage,10x20,252,None
+2026-02-01,M012,Life Storage,5x10,159,50% off
+2026-02-02,M013,Extra Space,5x5,282,50% off
+2026-02-03,M014,Life Storage,5x10,288,$1 move-in
+2026-02-04,M015,Extra Space,10x20,150,$1 move-in
+2026-02-05,M016,CubeSmart,5x10,86,50% off
+2026-02-06,M017,Extra Space,10x10,85,50% off
+2026-02-07,M018,Extra Space,5x5,185,50% off
+2026-02-08,M019,Extra Space,10x20,286,First month free
+2026-02-09,M020,Public Storage,10x20,288,50% off
+2026-02-10,M001,Extra Space,10x20,203,None
+2026-02-11,M002,Extra Space,5x10,176,$1 move-in
+2026-02-12,M003,Public Storage,5x5,172,$1 move-in
+2026-02-13,M004,Extra Space,10x10,129,First month free
+2026-02-14,M005,Life Storage,10x10,234,50% off
+2026-02-15,M006,Life Storage,5x5,239,50% off
+2026-02-16,M007,CubeSmart,5x10,80,First month free
+2026-02-17,M008,CubeSmart,10x20,114,$1 move-in
+2026-02-18,M009,Life Storage,5x10,116,$1 move-in
+2026-02-19,M010,Extra Space,10x20,203,First month free
+2026-02-20,M011,Extra Space,5x10,205,$1 move-in
+2026-02-21,M012,Extra Space,10x20,48,None
+2026-02-22,M013,Life Storage,5x10,269,$1 move-in
+2026-02-23,M014,Extra Space,10x20,135,$1 move-in
+2026-02-24,M015,CubeSmart,5x10,52,$1 move-in
+2026-02-25,M016,CubeSmart,10x20,171,50% off
+2026-02-26,M017,Life Storage,10x10,249,50% off
+2026-02-27,M018,Extra Space,5x10,231,$1 move-in
+2026-02-28,M019,Life Storage,10x20,67,$1 move-in
+2026-03-01,M020,Life Storage,5x10,55,$1 move-in
+2026-03-02,M001,Extra Space,5x5,124,None
+2026-03-03,M002,Public Storage,5x5,217,None
+2026-03-04,M003,Life Storage,5x10,285,$1 move-in
+2026-03-05,M004,Extra Space,5x5,227,$1 move-in
+2026-03-06,M005,Extra Space,5x5,120,50% off
+2026-03-07,M006,Extra Space,5x5,222,None
+2026-03-08,M007,CubeSmart,5x10,229,First month free
+2026-03-09,M008,Public Storage,10x20,87,$1 move-in
+2026-03-10,M009,Extra Space,10x10,263,$1 move-in
+2026-03-11,M010,Life Storage,5x10,186,50% off
+2026-03-12,M011,Extra Space,10x20,280,$1 move-in
+2026-03-13,M012,Public Storage,5x5,268,$1 move-in
+2026-03-14,M013,Public Storage,5x10,273,None
+2026-03-15,M014,Extra Space,10x10,234,$1 move-in
+2026-03-16,M015,CubeSmart,5x10,86,$1 move-in
+2026-03-17,M016,Life Storage,5x10,57,50% off
+2026-03-18,M017,Public Storage,5x5,197,50% off
+2026-03-19,M018,Life Storage,5x5,85,None
+2026-03-20,M019,CubeSmart,5x10,187,50% off
+2026-03-21,M020,CubeSmart,10x10,253,$1 move-in
+2026-03-22,M001,Life Storage,5x10,52,First month free
+2026-03-23,M002,Public Storage,5x10,172,50% off
+2026-03-24,M003,Life Storage,5x5,176,None
+2026-03-25,M004,Life Storage,10x10,96,First month free
+2026-03-26,M005,CubeSmart,10x20,212,$1 move-in
+2026-03-27,M006,Life Storage,5x5,55,50% off
+2026-03-28,M007,CubeSmart,10x20,72,None
+2026-03-29,M008,Life Storage,5x10,117,First month free
+2026-03-30,M009,Life Storage,10x10,68,None
+2026-03-31,M010,Life Storage,5x10,287,50% off
+2026-04-01,M011,CubeSmart,10x20,211,$1 move-in
+2026-04-02,M012,CubeSmart,10x10,61,First month free
+2026-04-03,M013,Life Storage,10x20,136,None
+2026-04-04,M014,CubeSmart,5x5,85,50% off
+2026-04-05,M015,Public Storage,5x5,154,50% off
+2026-04-06,M016,Public Storage,5x10,258,None
+2026-04-07,M017,Public Storage,5x5,227,None
+2026-04-08,M018,Life Storage,10x20,185,First month free
+2026-04-09,M019,CubeSmart,5x5,59,First month free
+2026-04-10,M020,Extra Space,10x20,277,50% off
+2026-04-11,M001,Public Storage,5x5,76,None
+2026-04-12,M002,Public Storage,5x5,262,$1 move-in
+2026-04-13,M003,Public Storage,10x20,75,50% off
+2026-04-14,M004,CubeSmart,5x5,60,None
+2026-04-15,M005,Public Storage,5x10,224,None
+2026-04-16,M006,Public Storage,5x10,61,First month free
+2026-04-17,M007,Extra Space,5x5,240,50% off
+2026-04-18,M008,Life Storage,10x10,54,None
+2026-04-19,M009,Extra Space,10x10,177,50% off
+2026-04-20,M010,CubeSmart,10x10,274,$1 move-in
+2026-04-21,M011,Public Storage,5x10,124,50% off
+2026-04-22,M012,Life Storage,10x10,118,First month free
+2026-04-23,M013,Extra Space,10x10,281,First month free
+2026-04-24,M014,Extra Space,10x10,209,First month free
+2026-04-25,M015,Extra Space,5x5,199,$1 move-in
+2026-04-26,M016,Life Storage,10x20,156,$1 move-in
+2026-04-27,M017,Public Storage,10x10,123,None
+2026-04-28,M018,Public Storage,5x5,153,None
+2026-04-29,M019,Public Storage,5x10,256,50% off
+2026-04-30,M020,Life Storage,5x10,255,50% off
+2026-01-01,M001,Life Storage,5x5,161,First month free
+2026-01-02,M002,Life Storage,10x10,276,First month free
+2026-01-03,M003,Public Storage,10x20,279,None
+2026-01-04,M004,Public Storage,10x20,85,50% off
+2026-01-05,M005,Public Storage,5x10,127,None
+2026-01-06,M006,Life Storage,10x20,275,$1 move-in
+2026-01-07,M007,Life Storage,5x10,93,First month free
+2026-01-08,M008,CubeSmart,10x20,269,First month free
+2026-01-09,M009,Life Storage,5x10,158,50% off
+2026-01-10,M010,CubeSmart,10x20,255,None
+2026-01-11,M011,CubeSmart,10x20,241,First month free
+2026-01-12,M012,CubeSmart,10x20,57,None
+2026-01-13,M013,CubeSmart,10x10,190,$1 move-in
+2026-01-14,M014,CubeSmart,5x5,124,$1 move-in
+2026-01-15,M015,Extra Space,5x5,152,$1 move-in
+2026-01-16,M016,CubeSmart,10x20,178,50% off
+2026-01-17,M017,Extra Space,5x5,102,50% off
+2026-01-18,M018,Extra Space,5x5,232,50% off
+2026-01-19,M019,Public Storage,5x5,250,$1 move-in
+2026-01-20,M020,CubeSmart,10x20,263,None
+2026-01-21,M001,Extra Space,10x20,100,First month free
+2026-01-22,M002,Extra Space,5x5,269,50% off
+2026-01-23,M003,CubeSmart,5x10,123,First month free
+2026-01-24,M004,Extra Space,10x20,219,First month free
+2026-01-25,M005,Life Storage,5x10,111,$1 move-in
+2026-01-26,M006,Extra Space,5x10,146,First month free
+2026-01-27,M007,Life Storage,10x20,137,First month free
+2026-01-28,M008,CubeSmart,10x10,123,None
+2026-01-29,M009,CubeSmart,10x10,174,First month free
+2026-01-30,M010,Public Storage,5x5,138,$1 move-in
+2026-01-31,M011,Extra Space,5x5,99,50% off
+2026-02-01,M012,Public Storage,5x10,109,50% off
+2026-02-02,M013,Extra Space,5x5,84,$1 move-in
+2026-02-03,M014,Life Storage,5x10,278,50% off
+2026-02-04,M015,CubeSmart,5x10,135,First month free
+2026-02-05,M016,Extra Space,5x5,267,First month free
+2026-02-06,M017,CubeSmart,10x10,270,$1 move-in
+2026-02-07,M018,CubeSmart,5x5,248,None
+2026-02-08,M019,Extra Space,5x10,87,$1 move-in
+2026-02-09,M020,CubeSmart,10x10,279,First month free
+2026-02-10,M001,Extra Space,10x10,207,$1 move-in
+2026-02-11,M002,Public Storage,5x5,264,First month free
+2026-02-12,M003,Life Storage,5x5,146,50% off
+2026-02-13,M004,Public Storage,5x10,61,$1 move-in
+2026-02-14,M005,Life Storage,10x20,282,None
+2026-02-15,M006,Public Storage,5x5,221,50% off
+2026-02-16,M007,Life Storage,10x20,251,$1 move-in
+2026-02-17,M008,CubeSmart,5x5,144,None
+2026-02-18,M009,CubeSmart,5x10,205,First month free
+2026-02-19,M010,CubeSmart,10x10,84,$1 move-in
+2026-02-20,M011,CubeSmart,5x5,227,First month free
+2026-02-21,M012,Extra Space,5x10,83,First month free
+2026-02-22,M013,Life Storage,10x20,136,$1 move-in
+2026-02-23,M014,Life Storage,5x10,271,$1 move-in
+2026-02-24,M015,Life Storage,10x20,171,First month free
+2026-02-25,M016,Life Storage,5x5,80,50% off
+2026-02-26,M017,Public Storage,5x10,83,None
+2026-02-27,M018,CubeSmart,5x5,62,None
+2026-02-28,M019,Extra Space,5x5,98,First month free
+2026-03-01,M020,Public Storage,10x20,138,None
+2026-03-02,M001,Life Storage,10x20,288,$1 move-in
+2026-03-03,M002,Life Storage,10x20,213,First month free
+2026-03-04,M003,Public Storage,5x10,80,$1 move-in
+2026-03-05,M004,Public Storage,5x5,191,50% off
+2026-03-06,M005,Extra Space,5x5,131,None
+2026-03-07,M006,Extra Space,10x10,124,50% off
+2026-03-08,M007,Life Storage,5x10,136,None
+2026-03-09,M008,Life Storage,5x5,253,50% off
+2026-03-10,M009,CubeSmart,10x20,242,50% off
+2026-03-11,M010,Life Storage,5x10,207,$1 move-in
+2026-03-12,M011,CubeSmart,5x10,124,$1 move-in
+2026-03-13,M012,Life Storage,5x5,58,First month free
+2026-03-14,M013,Extra Space,5x5,177,None
+2026-03-15,M014,CubeSmart,10x20,45,First month free
+2026-03-16,M015,Public Storage,5x5,131,First month free
+2026-03-17,M016,Extra Space,10x10,184,First month free
+2026-03-18,M017,CubeSmart,10x10,277,First month free
+2026-03-19,M018,CubeSmart,10x20,262,First month free
+2026-03-20,M019,Extra Space,5x5,111,50% off
+2026-03-21,M020,CubeSmart,10x10,222,First month free
+2026-03-22,M001,Life Storage,5x10,85,50% off
+2026-03-23,M002,Extra Space,5x10,191,None
+2026-03-24,M003,CubeSmart,10x20,279,$1 move-in
+2026-03-25,M004,Public Storage,10x10,148,50% off
+2026-03-26,M005,Life Storage,10x20,210,First month free
+2026-03-27,M006,Public Storage,5x5,236,50% off
+2026-03-28,M007,CubeSmart,10x20,255,$1 move-in
+2026-03-29,M008,Life Storage,5x10,213,None
+2026-03-30,M009,CubeSmart,10x20,247,$1 move-in
+2026-03-31,M010,CubeSmart,10x10,283,First month free
+2026-04-01,M011,Public Storage,10x10,195,First month free
+2026-04-02,M012,Public Storage,10x20,94,50% off
+2026-04-03,M013,Public Storage,5x10,145,50% off
+2026-04-04,M014,CubeSmart,5x5,85,First month free
+2026-04-05,M015,Public Storage,5x10,187,$1 move-in
+2026-04-06,M016,Public Storage,10x10,270,First month free
+2026-04-07,M017,Life Storage,10x20,103,$1 move-in
+2026-04-08,M018,CubeSmart,5x10,140,$1 move-in
+2026-04-09,M019,CubeSmart,5x10,144,First month free
+2026-04-10,M020,CubeSmart,10x20,186,First month free
+2026-04-11,M001,Extra Space,10x10,215,None
+2026-04-12,M002,Life Storage,5x10,106,50% off
+2026-04-13,M003,Life Storage,10x10,190,First month free
+2026-04-14,M004,Public Storage,10x10,116,$1 move-in
+2026-04-15,M005,Life Storage,10x10,115,None
+2026-04-16,M006,Extra Space,5x5,170,None
+2026-04-17,M007,CubeSmart,5x5,57,$1 move-in
+2026-04-18,M008,Extra Space,5x5,71,$1 move-in
+2026-04-19,M009,CubeSmart,5x5,99,None
+2026-04-20,M010,Public Storage,10x10,201,None
+2026-04-21,M011,Extra Space,5x5,213,$1 move-in
+2026-04-22,M012,Public Storage,5x5,183,First month free
+2026-04-23,M013,Life Storage,10x20,285,None
+2026-04-24,M014,CubeSmart,10x20,137,$1 move-in
+2026-04-25,M015,Extra Space,5x5,270,First month free
+2026-04-26,M016,CubeSmart,5x5,107,None
+2026-04-27,M017,Public Storage,10x10,248,50% off
+2026-04-28,M018,Extra Space,10x10,120,None
+2026-04-29,M019,Public Storage,10x20,114,None
+2026-04-30,M020,Extra Space,5x5,140,$1 move-in
+2026-01-01,M001,Life Storage,5x10,156,First month free
+2026-01-02,M002,Life Storage,5x10,148,$1 move-in
+2026-01-03,M003,Public Storage,5x5,288,First month free
+2026-01-04,M004,Extra Space,5x10,132,$1 move-in
+2026-01-05,M005,CubeSmart,10x20,162,50% off
+2026-01-06,M006,Public Storage,5x5,204,$1 move-in
+2026-01-07,M007,Life Storage,10x10,157,50% off
+2026-01-08,M008,CubeSmart,10x20,118,None
+2026-01-09,M009,CubeSmart,10x10,49,50% off
+2026-01-10,M010,Extra Space,10x20,159,First month free
+2026-01-11,M011,Extra Space,5x5,270,$1 move-in
+2026-01-12,M012,Public Storage,5x5,205,None
+2026-01-13,M013,CubeSmart,5x10,114,First month free
+2026-01-14,M014,Extra Space,5x10,150,None
+2026-01-15,M015,Public Storage,5x5,272,None
+2026-01-16,M016,Extra Space,10x10,224,None
+2026-01-17,M017,Life Storage,5x5,69,First month free
+2026-01-18,M018,Public Storage,10x20,225,$1 move-in
+2026-01-19,M019,CubeSmart,10x20,284,First month free
+2026-01-20,M020,Extra Space,10x20,110,$1 move-in
+2026-01-21,M001,Life Storage,5x5,168,$1 move-in
+2026-01-22,M002,Public Storage,5x5,243,50% off
+2026-01-23,M003,Extra Space,10x10,49,$1 move-in
+2026-01-24,M004,Public Storage,10x20,45,None
+2026-01-25,M005,Life Storage,5x5,112,None
+2026-01-26,M006,Life Storage,5x5,249,$1 move-in
+2026-01-27,M007,Life Storage,10x10,63,50% off
+2026-01-28,M008,Life Storage,10x20,99,50% off
+2026-01-29,M009,CubeSmart,5x5,174,$1 move-in
+2026-01-30,M010,Extra Space,10x20,126,First month free
+2026-01-31,M011,CubeSmart,10x10,229,First month free
+2026-02-01,M012,Public Storage,10x20,125,50% off
+2026-02-02,M013,Public Storage,10x10,106,50% off
+2026-02-03,M014,Public Storage,5x5,228,First month free
+2026-02-04,M015,CubeSmart,10x10,242,None
+2026-02-05,M016,Public Storage,5x10,147,First month free
+2026-02-06,M017,Life Storage,5x10,264,None
+2026-02-07,M018,CubeSmart,10x10,280,None
+2026-02-08,M019,Life Storage,10x20,226,$1 move-in
+2026-02-09,M020,Public Storage,10x10,245,First month free
+2026-02-10,M001,Extra Space,10x20,263,$1 move-in
+2026-02-11,M002,Public Storage,5x5,260,50% off
+2026-02-12,M003,CubeSmart,10x10,129,50% off
+2026-02-13,M004,Extra Space,5x10,205,None
+2026-02-14,M005,Extra Space,10x20,110,$1 move-in
+2026-02-15,M006,Extra Space,5x10,45,None
+2026-02-16,M007,CubeSmart,5x10,108,First month free
+2026-02-17,M008,Public Storage,5x10,154,$1 move-in
+2026-02-18,M009,Life Storage,10x10,88,None
+2026-02-19,M010,Life Storage,5x5,43,$1 move-in
+2026-02-20,M011,Public Storage,5x10,178,50% off
+2026-02-21,M012,Life Storage,5x10,197,$1 move-in
+2026-02-22,M013,Extra Space,10x20,161,First month free
+2026-02-23,M014,Life Storage,5x5,95,None
+2026-02-24,M015,Public Storage,5x5,100,50% off
+2026-02-25,M016,Public Storage,5x10,71,50% off
+2026-02-26,M017,Public Storage,5x10,108,50% off
+2026-02-27,M018,CubeSmart,5x5,111,50% off
+2026-02-28,M019,Extra Space,10x20,263,None
+2026-03-01,M020,Public Storage,5x10,265,50% off
+2026-03-02,M001,CubeSmart,5x10,160,None
+2026-03-03,M002,Public Storage,5x5,209,50% off
+2026-03-04,M003,Public Storage,10x20,92,None
+2026-03-05,M004,Life Storage,10x20,188,First month free
+2026-03-06,M005,Life Storage,10x10,145,50% off
+2026-03-07,M006,CubeSmart,5x10,110,None
+2026-03-08,M007,Life Storage,5x10,167,First month free
+2026-03-09,M008,Public Storage,5x10,279,First month free
+2026-03-10,M009,Public Storage,5x10,129,$1 move-in
+2026-03-11,M010,CubeSmart,10x10,267,$1 move-in
+2026-03-12,M011,Public Storage,10x10,132,First month free
+2026-03-13,M012,Life Storage,5x10,174,None
+2026-03-14,M013,Extra Space,5x5,54,None
+2026-03-15,M014,Extra Space,5x10,275,None
+2026-03-16,M015,Extra Space,5x5,78,None
+2026-03-17,M016,Life Storage,5x5,80,None
+2026-03-18,M017,Extra Space,5x5,128,None
+2026-03-19,M018,Extra Space,10x20,243,None
+2026-03-20,M019,Extra Space,10x10,180,$1 move-in
+2026-03-21,M020,Public Storage,5x10,168,None
+2026-03-22,M001,Extra Space,5x10,221,First month free
+2026-03-23,M002,Life Storage,5x10,195,None
+2026-03-24,M003,Extra Space,5x5,98,None
+2026-03-25,M004,Life Storage,5x5,224,None
+2026-03-26,M005,Life Storage,5x5,250,$1 move-in
+2026-03-27,M006,Life Storage,10x20,206,50% off
+2026-03-28,M007,Public Storage,5x10,105,First month free
+2026-03-29,M008,Public Storage,10x10,279,50% off
+2026-03-30,M009,Public Storage,10x10,76,$1 move-in
+2026-03-31,M010,Public Storage,5x10,51,None
+2026-04-01,M011,Life Storage,10x10,237,$1 move-in
+2026-04-02,M012,CubeSmart,10x20,253,$1 move-in
+2026-04-03,M013,Public Storage,5x10,130,First month free
+2026-04-04,M014,Life Storage,10x20,78,None
+2026-04-05,M015,CubeSmart,10x10,184,First month free
+2026-04-06,M016,Extra Space,5x5,96,$1 move-in
+2026-04-07,M017,CubeSmart,5x10,74,First month free
+2026-04-08,M018,Life Storage,10x10,120,None
+2026-04-09,M019,Public Storage,5x5,171,$1 move-in
+2026-04-10,M020,Public Storage,10x10,174,First month free
+2026-04-11,M001,Public Storage,5x5,176,$1 move-in
+2026-04-12,M002,Life Storage,5x5,122,None
+2026-04-13,M003,Public Storage,5x5,109,None
+2026-04-14,M004,Extra Space,10x10,171,First month free
+2026-04-15,M005,Public Storage,10x20,210,None
+2026-04-16,M006,Extra Space,10x10,282,None
+2026-04-17,M007,Life Storage,10x20,228,None
+2026-04-18,M008,CubeSmart,10x10,216,First month free
+2026-04-19,M009,CubeSmart,5x5,93,50% off
+2026-04-20,M010,Extra Space,5x5,204,$1 move-in
+2026-04-21,M011,Life Storage,10x20,227,First month free
+2026-04-22,M012,Extra Space,10x20,284,50% off
+2026-04-23,M013,CubeSmart,10x10,267,First month free
+2026-04-24,M014,Life Storage,10x10,267,$1 move-in
+2026-04-25,M015,Extra Space,10x20,153,$1 move-in
+2026-04-26,M016,CubeSmart,5x10,85,None
+2026-04-27,M017,Extra Space,5x5,113,None
+2026-04-28,M018,Life Storage,5x10,287,50% off
+2026-04-29,M019,Extra Space,5x10,51,$1 move-in
+2026-04-30,M020,Life Storage,10x10,192,None
+2026-01-01,M001,Extra Space,5x5,62,First month free
+2026-01-02,M002,Extra Space,5x10,146,First month free
+2026-01-03,M003,Life Storage,10x20,96,$1 move-in
+2026-01-04,M004,CubeSmart,5x5,203,50% off
+2026-01-05,M005,Life Storage,10x20,256,50% off
+2026-01-06,M006,Extra Space,5x10,182,None
+2026-01-07,M007,CubeSmart,5x5,244,First month free
+2026-01-08,M008,Public Storage,10x10,116,None
+2026-01-09,M009,Extra Space,10x20,188,None
+2026-01-10,M010,CubeSmart,10x10,89,$1 move-in
+2026-01-11,M011,Life Storage,5x5,119,50% off
+2026-01-12,M012,Life Storage,10x10,222,$1 move-in
+2026-01-13,M013,CubeSmart,5x5,82,First month free
+2026-01-14,M014,CubeSmart,5x5,47,$1 move-in
+2026-01-15,M015,Extra Space,5x10,144,First month free
+2026-01-16,M016,Extra Space,10x10,252,None
+2026-01-17,M017,Life Storage,10x10,286,$1 move-in
+2026-01-18,M018,Public Storage,10x20,115,First month free
+2026-01-19,M019,Extra Space,5x5,195,50% off
+2026-01-20,M020,Extra Space,5x10,262,First month free
+2026-01-21,M001,Life Storage,10x10,176,None
+2026-01-22,M002,CubeSmart,5x10,131,None
+2026-01-23,M003,CubeSmart,10x10,235,50% off
+2026-01-24,M004,Extra Space,5x5,274,First month free
+2026-01-25,M005,Life Storage,5x10,276,$1 move-in
+2026-01-26,M006,Life Storage,10x10,91,First month free
+2026-01-27,M007,Extra Space,5x10,207,50% off
+2026-01-28,M008,CubeSmart,5x10,169,First month free
+2026-01-29,M009,CubeSmart,5x10,168,50% off
+2026-01-30,M010,Public Storage,10x20,44,None
+2026-01-31,M011,Public Storage,5x10,171,$1 move-in
+2026-02-01,M012,Life Storage,10x20,75,$1 move-in
+2026-02-02,M013,Life Storage,5x5,116,$1 move-in
+2026-02-03,M014,Extra Space,10x10,230,$1 move-in
+2026-02-04,M015,Public Storage,5x10,198,First month free
+2026-02-05,M016,CubeSmart,10x20,256,None
+2026-02-06,M017,Public Storage,5x5,216,None
+2026-02-07,M018,Life Storage,10x10,231,First month free
+2026-02-08,M019,Life Storage,5x10,259,$1 move-in
+2026-02-09,M020,Extra Space,5x5,265,First month free
+2026-02-10,M001,Life Storage,10x20,43,First month free
+2026-02-11,M002,Life Storage,10x20,98,First month free
+2026-02-12,M003,Life Storage,10x10,121,None
+2026-02-13,M004,Public Storage,10x10,68,First month free
+2026-02-14,M005,CubeSmart,10x20,267,50% off
+2026-02-15,M006,CubeSmart,10x20,244,First month free
+2026-02-16,M007,CubeSmart,10x20,223,50% off
+2026-02-17,M008,CubeSmart,10x10,188,None
+2026-02-18,M009,Public Storage,10x10,82,50% off
+2026-02-19,M010,Extra Space,5x10,99,First month free
+2026-02-20,M011,CubeSmart,10x20,88,50% off
+2026-02-21,M012,CubeSmart,10x10,111,First month free
+2026-02-22,M013,Public Storage,10x20,56,50% off
+2026-02-23,M014,Public Storage,10x10,228,50% off
+2026-02-24,M015,CubeSmart,10x10,191,$1 move-in
+2026-02-25,M016,Public Storage,10x10,153,None
+2026-02-26,M017,Life Storage,10x10,49,None
+2026-02-27,M018,Public Storage,10x20,241,50% off
+2026-02-28,M019,CubeSmart,5x10,122,First month free
+2026-03-01,M020,Life Storage,10x20,122,None
+2026-03-02,M001,Extra Space,5x10,93,$1 move-in
+2026-03-03,M002,Extra Space,5x10,176,None
+2026-03-04,M003,Public Storage,10x10,205,None
+2026-03-05,M004,Public Storage,5x10,192,$1 move-in
+2026-03-06,M005,CubeSmart,5x10,285,50% off
+2026-03-07,M006,Life Storage,5x5,134,First month free
+2026-03-08,M007,Life Storage,5x10,157,50% off
+2026-03-09,M008,Extra Space,5x5,59,None
+2026-03-10,M009,Public Storage,5x5,182,50% off
+2026-03-11,M010,Public Storage,5x10,178,50% off
+2026-03-12,M011,Life Storage,10x20,215,50% off
+2026-03-13,M012,Extra Space,10x10,65,None
+2026-03-14,M013,Public Storage,10x20,179,None
+2026-03-15,M014,Life Storage,5x5,224,$1 move-in
+2026-03-16,M015,Public Storage,5x10,285,First month free
+2026-03-17,M016,Extra Space,5x5,101,None
+2026-03-18,M017,Public Storage,10x20,161,None
+2026-03-19,M018,Public Storage,5x10,175,None
+2026-03-20,M019,Extra Space,10x20,84,None
+2026-03-21,M020,Public Storage,5x5,243,First month free
+2026-03-22,M001,Public Storage,10x10,142,First month free
+2026-03-23,M002,CubeSmart,5x5,66,First month free
+2026-03-24,M003,Life Storage,10x20,264,First month free
+2026-03-25,M004,Extra Space,10x10,150,None
+2026-03-26,M005,Public Storage,10x10,151,First month free
+2026-03-27,M006,Extra Space,10x20,201,$1 move-in
+2026-03-28,M007,Life Storage,10x10,82,$1 move-in
+2026-03-29,M008,Public Storage,10x10,187,First month free
+2026-03-30,M009,CubeSmart,5x5,128,$1 move-in
+2026-03-31,M010,Extra Space,5x10,55,None
+2026-04-01,M011,Public Storage,10x10,255,First month free
+2026-04-02,M012,Life Storage,10x10,84,$1 move-in
+2026-04-03,M013,Public Storage,10x20,60,None
+2026-04-04,M014,Life Storage,10x20,143,$1 move-in
+2026-04-05,M015,Public Storage,5x10,138,50% off
+2026-04-06,M016,Extra Space,5x5,67,None
+2026-04-07,M017,Public Storage,5x10,123,50% off
+2026-04-08,M018,Extra Space,10x20,184,50% off
+2026-04-09,M019,Extra Space,5x5,84,First month free
+2026-04-10,M020,CubeSmart,10x10,247,50% off
+2026-04-11,M001,CubeSmart,10x10,78,First month free
+2026-04-12,M002,CubeSmart,5x10,229,First month free
+2026-04-13,M003,Extra Space,10x20,98,First month free
+2026-04-14,M004,Extra Space,10x10,275,First month free
+2026-04-15,M005,Life Storage,5x5,151,First month free
+2026-04-16,M006,CubeSmart,10x20,53,First month free
+2026-04-17,M007,CubeSmart,5x10,229,None
+2026-04-18,M008,Life Storage,5x5,214,50% off
+2026-04-19,M009,CubeSmart,10x20,183,First month free
+2026-04-20,M010,Life Storage,5x5,43,$1 move-in
+2026-04-21,M011,Extra Space,5x5,210,$1 move-in
+2026-04-22,M012,Public Storage,5x10,188,$1 move-in
+2026-04-23,M013,Extra Space,5x5,266,$1 move-in
+2026-04-24,M014,CubeSmart,5x5,96,None
+2026-04-25,M015,Extra Space,10x10,93,$1 move-in
+2026-04-26,M016,Extra Space,10x20,275,First month free
+2026-04-27,M017,Public Storage,5x5,139,First month free
+2026-04-28,M018,Public Storage,5x10,255,First month free
+2026-04-29,M019,CubeSmart,10x10,140,50% off
+2026-04-30,M020,Extra Space,5x10,146,First month free
+2026-01-01,M001,Life Storage,5x5,67,50% off
+2026-01-02,M002,Life Storage,5x5,105,50% off
+2026-01-03,M003,Life Storage,10x20,222,$1 move-in
+2026-01-04,M004,CubeSmart,5x10,198,None
+2026-01-05,M005,Life Storage,10x20,241,50% off
+2026-01-06,M006,Extra Space,10x10,148,$1 move-in
+2026-01-07,M007,CubeSmart,10x20,206,50% off
+2026-01-08,M008,Public Storage,10x10,210,First month free
+2026-01-09,M009,Life Storage,10x10,174,$1 move-in
+2026-01-10,M010,CubeSmart,5x5,213,None
+2026-01-11,M011,CubeSmart,5x5,89,First month free
+2026-01-12,M012,Extra Space,5x5,220,First month free
+2026-01-13,M013,Life Storage,10x10,77,First month free
+2026-01-14,M014,CubeSmart,10x20,90,First month free
+2026-01-15,M015,Public Storage,5x10,143,$1 move-in
+2026-01-16,M016,CubeSmart,5x10,172,None
+2026-01-17,M017,Extra Space,5x10,254,$1 move-in
+2026-01-18,M018,Life Storage,5x10,158,None
+2026-01-19,M019,Extra Space,5x5,63,None
+2026-01-20,M020,Public Storage,5x10,54,None
+2026-01-21,M001,CubeSmart,10x10,257,None
+2026-01-22,M002,Extra Space,5x10,50,$1 move-in
+2026-01-23,M003,Extra Space,5x10,93,50% off
+2026-01-24,M004,Life Storage,10x20,287,First month free
+2026-01-25,M005,Public Storage,5x10,255,50% off
+2026-01-26,M006,Public Storage,10x20,267,None
+2026-01-27,M007,Extra Space,5x5,178,$1 move-in
+2026-01-28,M008,Public Storage,10x20,131,First month free
+2026-01-29,M009,CubeSmart,5x5,191,50% off
+2026-01-30,M010,Life Storage,5x5,97,$1 move-in
+2026-01-31,M011,Extra Space,10x20,106,$1 move-in
+2026-02-01,M012,Extra Space,10x10,46,None
+2026-02-02,M013,CubeSmart,5x10,162,$1 move-in
+2026-02-03,M014,Extra Space,5x5,223,First month free
+2026-02-04,M015,Public Storage,10x20,134,50% off
+2026-02-05,M016,Extra Space,5x10,109,None
+2026-02-06,M017,Public Storage,5x5,66,None
+2026-02-07,M018,Extra Space,10x20,147,50% off
+2026-02-08,M019,Extra Space,5x10,146,50% off
+2026-02-09,M020,Extra Space,5x5,145,$1 move-in
+2026-02-10,M001,Public Storage,5x5,238,None
+2026-02-11,M002,Extra Space,10x20,53,50% off
+2026-02-12,M003,CubeSmart,5x5,282,None
+2026-02-13,M004,Life Storage,10x20,118,50% off
+2026-02-14,M005,Life Storage,5x10,102,First month free
+2026-02-15,M006,Life Storage,10x20,211,None
+2026-02-16,M007,Extra Space,10x20,89,None
+2026-02-17,M008,Extra Space,5x10,266,First month free
+2026-02-18,M009,Public Storage,10x20,43,None
+2026-02-19,M010,CubeSmart,5x5,125,First month free
+2026-02-20,M011,Life Storage,5x10,142,None
+2026-02-21,M012,Life Storage,5x5,257,None
+2026-02-22,M013,Extra Space,10x10,61,First month free
+2026-02-23,M014,Life Storage,5x5,153,First month free
+2026-02-24,M015,CubeSmart,10x20,212,First month free
+2026-02-25,M016,Life Storage,10x20,64,$1 move-in
+2026-02-26,M017,Public Storage,5x5,159,None
+2026-02-27,M018,CubeSmart,5x5,165,50% off
+2026-02-28,M019,CubeSmart,10x20,136,First month free
+2026-03-01,M020,Life Storage,5x10,106,$1 move-in
+2026-03-02,M001,CubeSmart,10x20,233,$1 move-in
+2026-03-03,M002,Life Storage,5x10,178,First month free
+2026-03-04,M003,Extra Space,10x10,213,First month free
+2026-03-05,M004,Life Storage,5x10,154,None
+2026-03-06,M005,CubeSmart,5x5,213,None
+2026-03-07,M006,Public Storage,10x10,243,50% off
+2026-03-08,M007,Life Storage,5x10,101,None
+2026-03-09,M008,CubeSmart,5x5,206,None
+2026-03-10,M009,CubeSmart,10x20,201,$1 move-in
+2026-03-11,M010,Public Storage,5x10,95,$1 move-in
+2026-03-12,M011,Life Storage,10x20,194,$1 move-in
+2026-03-13,M012,Life Storage,5x10,137,None
+2026-03-14,M013,Public Storage,10x20,116,None
+2026-03-15,M014,Public Storage,5x10,276,$1 move-in
+2026-03-16,M015,Life Storage,10x10,279,$1 move-in
+2026-03-17,M016,CubeSmart,5x5,82,$1 move-in
+2026-03-18,M017,CubeSmart,10x10,79,$1 move-in
+2026-03-19,M018,CubeSmart,10x20,54,$1 move-in
+2026-03-20,M019,Life Storage,5x10,168,50% off
+2026-03-21,M020,Life Storage,10x20,82,50% off
+2026-03-22,M001,Public Storage,5x10,60,$1 move-in
+2026-03-23,M002,Public Storage,10x10,279,None
+2026-03-24,M003,Life Storage,10x20,84,None
+2026-03-25,M004,CubeSmart,5x10,222,None
+2026-03-26,M005,Public Storage,5x10,261,First month free
+2026-03-27,M006,Public Storage,10x20,59,50% off
+2026-03-28,M007,Extra Space,5x10,60,First month free
+2026-03-29,M008,Public Storage,10x20,276,First month free
+2026-03-30,M009,Extra Space,10x10,271,$1 move-in
+2026-03-31,M010,Life Storage,5x5,116,First month free
+2026-04-01,M011,CubeSmart,10x20,76,None
+2026-04-02,M012,Life Storage,5x10,95,50% off
+2026-04-03,M013,Life Storage,10x20,188,50% off
+2026-04-04,M014,Life Storage,10x20,206,None
+2026-04-05,M015,CubeSmart,5x5,200,$1 move-in
+2026-04-06,M016,Public Storage,5x5,238,50% off
+2026-04-07,M017,Life Storage,10x20,269,$1 move-in
+2026-04-08,M018,Life Storage,10x20,242,50% off
+2026-04-09,M019,CubeSmart,10x10,231,50% off
+2026-04-10,M020,CubeSmart,10x10,136,None
+2026-04-11,M001,Extra Space,5x5,77,$1 move-in
+2026-04-12,M002,Extra Space,10x10,195,50% off
+2026-04-13,M003,Life Storage,10x10,87,50% off
+2026-04-14,M004,Extra Space,5x5,203,First month free
+2026-04-15,M005,Life Storage,5x10,104,None
+2026-04-16,M006,CubeSmart,10x10,221,First month free
+2026-04-17,M007,Public Storage,10x10,190,$1 move-in
+2026-04-18,M008,CubeSmart,5x10,254,First month free
+2026-04-19,M009,Life Storage,5x10,180,$1 move-in
+2026-04-20,M010,CubeSmart,5x10,70,50% off
+2026-04-21,M011,CubeSmart,5x10,121,First month free
+2026-04-22,M012,Extra Space,5x10,131,First month free
+2026-04-23,M013,Extra Space,10x20,106,First month free
+2026-04-24,M014,Public Storage,10x10,205,50% off
+2026-04-25,M015,Life Storage,5x10,246,50% off
+2026-04-26,M016,Life Storage,5x5,89,First month free
+2026-04-27,M017,CubeSmart,10x20,288,None
+2026-04-28,M018,Extra Space,5x5,218,First month free
+2026-04-29,M019,CubeSmart,5x10,119,None
+2026-04-30,M020,Public Storage,10x10,200,50% off
+2026-01-01,M001,Extra Space,5x10,147,50% off
+2026-01-02,M002,CubeSmart,10x20,199,$1 move-in
+2026-01-03,M003,Extra Space,10x10,109,$1 move-in
+2026-01-04,M004,Public Storage,10x20,238,$1 move-in
+2026-01-05,M005,CubeSmart,10x10,230,$1 move-in
+2026-01-06,M006,Extra Space,5x10,136,None
+2026-01-07,M007,CubeSmart,5x10,54,None
+2026-01-08,M008,Public Storage,5x5,70,$1 move-in
+2026-01-09,M009,Public Storage,5x10,132,$1 move-in
+2026-01-10,M010,Life Storage,10x20,54,First month free
+2026-01-11,M011,Public Storage,5x5,142,First month free
+2026-01-12,M012,CubeSmart,10x10,285,$1 move-in
+2026-01-13,M013,CubeSmart,10x10,113,None
+2026-01-14,M014,CubeSmart,5x5,155,$1 move-in
+2026-01-15,M015,Life Storage,5x5,60,None
+2026-01-16,M016,CubeSmart,5x5,114,First month free
+2026-01-17,M017,Life Storage,10x10,250,50% off
+2026-01-18,M018,Life Storage,10x10,214,None
+2026-01-19,M019,CubeSmart,10x20,125,First month free
+2026-01-20,M020,Public Storage,10x20,280,$1 move-in
+2026-01-21,M001,CubeSmart,10x10,82,$1 move-in
+2026-01-22,M002,Extra Space,5x5,212,None
+2026-01-23,M003,CubeSmart,10x10,182,None
+2026-01-24,M004,Extra Space,10x10,182,None
+2026-01-25,M005,CubeSmart,5x10,229,None
+2026-01-26,M006,Public Storage,10x10,230,$1 move-in
+2026-01-27,M007,Life Storage,10x10,242,First month free
+2026-01-28,M008,Extra Space,5x5,247,First month free
+2026-01-29,M009,Life Storage,10x10,67,$1 move-in
+2026-01-30,M010,CubeSmart,10x10,92,First month free
+2026-01-31,M011,Public Storage,5x5,126,50% off
+2026-02-01,M012,CubeSmart,5x10,101,First month free
+2026-02-02,M013,Extra Space,10x20,81,$1 move-in
+2026-02-03,M014,Extra Space,10x10,246,None
+2026-02-04,M015,Life Storage,10x20,97,None
+2026-02-05,M016,Extra Space,5x10,182,None
+2026-02-06,M017,Public Storage,10x10,282,First month free
+2026-02-07,M018,CubeSmart,5x5,171,50% off
+2026-02-08,M019,Public Storage,10x20,255,None
+2026-02-09,M020,Extra Space,10x20,160,50% off
+2026-02-10,M001,Extra Space,10x20,96,50% off
+2026-02-11,M002,Life Storage,10x10,251,None
+2026-02-12,M003,Life Storage,10x20,190,50% off
+2026-02-13,M004,CubeSmart,5x5,55,First month free
+2026-02-14,M005,Extra Space,10x10,233,First month free
+2026-02-15,M006,Public Storage,10x10,179,$1 move-in
+2026-02-16,M007,CubeSmart,10x10,99,50% off
+2026-02-17,M008,Extra Space,10x10,132,$1 move-in
+2026-02-18,M009,Public Storage,5x10,108,50% off
+2026-02-19,M010,Life Storage,10x20,87,None
+2026-02-20,M011,Life Storage,5x5,193,None
+2026-02-21,M012,CubeSmart,10x20,55,First month free
+2026-02-22,M013,CubeSmart,5x10,203,50% off
+2026-02-23,M014,Public Storage,10x10,191,50% off
+2026-02-24,M015,Public Storage,10x20,89,50% off
+2026-02-25,M016,CubeSmart,5x5,254,$1 move-in
+2026-02-26,M017,CubeSmart,5x5,231,None
+2026-02-27,M018,Extra Space,5x5,186,First month free
+2026-02-28,M019,Life Storage,5x10,184,50% off
+2026-03-01,M020,Life Storage,5x5,96,50% off
+2026-03-02,M001,Extra Space,10x20,263,None
+2026-03-03,M002,Life Storage,5x5,131,None
+2026-03-04,M003,Life Storage,10x20,70,First month free
+2026-03-05,M004,CubeSmart,10x20,242,$1 move-in
+2026-03-06,M005,Life Storage,10x10,122,None
+2026-03-07,M006,Life Storage,5x5,88,First month free
+2026-03-08,M007,CubeSmart,5x10,150,None
+2026-03-09,M008,Extra Space,5x10,69,$1 move-in
+2026-03-10,M009,Life Storage,5x10,269,First month free
+2026-03-11,M010,Extra Space,5x5,267,$1 move-in
+2026-03-12,M011,CubeSmart,10x20,50,First month free
+2026-03-13,M012,Public Storage,5x10,280,$1 move-in
+2026-03-14,M013,CubeSmart,10x10,210,50% off
+2026-03-15,M014,Public Storage,5x10,171,None
+2026-03-16,M015,CubeSmart,5x5,238,$1 move-in
+2026-03-17,M016,Public Storage,10x10,80,50% off
+2026-03-18,M017,Extra Space,10x20,115,None
+2026-03-19,M018,CubeSmart,10x20,221,None
+2026-03-20,M019,CubeSmart,10x20,191,50% off
+2026-03-21,M020,Public Storage,5x5,277,None
+2026-03-22,M001,CubeSmart,5x10,220,None
+2026-03-23,M002,CubeSmart,10x20,166,50% off
+2026-03-24,M003,Extra Space,10x20,259,50% off
+2026-03-25,M004,Public Storage,10x20,212,50% off
+2026-03-26,M005,Life Storage,10x10,222,50% off
+2026-03-27,M006,Life Storage,5x10,208,None
+2026-03-28,M007,Extra Space,5x5,76,$1 move-in
+2026-03-29,M008,Life Storage,5x5,117,50% off
+2026-03-30,M009,CubeSmart,10x10,160,First month free
+2026-03-31,M010,CubeSmart,10x20,152,None
+2026-04-01,M011,Extra Space,5x10,181,50% off
+2026-04-02,M012,Extra Space,5x5,271,First month free
+2026-04-03,M013,Life Storage,5x5,59,None
+2026-04-04,M014,Life Storage,10x10,43,50% off
+2026-04-05,M015,Public Storage,10x20,183,$1 move-in
+2026-04-06,M016,CubeSmart,10x20,148,None
+2026-04-07,M017,Extra Space,5x5,71,50% off
+2026-04-08,M018,Extra Space,5x5,54,$1 move-in
+2026-04-09,M019,Extra Space,10x20,132,None
+2026-04-10,M020,CubeSmart,10x10,285,First month free
+2026-04-11,M001,CubeSmart,5x10,116,50% off
+2026-04-12,M002,Public Storage,10x10,132,$1 move-in
+2026-04-13,M003,Life Storage,5x10,164,None
+2026-04-14,M004,Extra Space,10x10,199,First month free
+2026-04-15,M005,CubeSmart,10x10,274,First month free
+2026-04-16,M006,CubeSmart,10x20,140,First month free
+2026-04-17,M007,CubeSmart,5x10,150,$1 move-in
+2026-04-18,M008,Public Storage,10x10,254,None
+2026-04-19,M009,Public Storage,10x10,178,None
+2026-04-20,M010,Life Storage,5x5,238,None
+2026-04-21,M011,CubeSmart,10x10,75,None
+2026-04-22,M012,Public Storage,5x10,71,$1 move-in
+2026-04-23,M013,Extra Space,10x10,141,$1 move-in
+2026-04-24,M014,Public Storage,5x5,284,$1 move-in
+2026-04-25,M015,Life Storage,5x5,184,$1 move-in
+2026-04-26,M016,Public Storage,5x10,151,$1 move-in
+2026-04-27,M017,Extra Space,5x10,64,None
+2026-04-28,M018,CubeSmart,5x5,219,First month free
+2026-04-29,M019,Extra Space,5x10,129,None
+2026-04-30,M020,Life Storage,10x10,281,None
+2026-01-01,M001,Public Storage,5x10,64,$1 move-in
+2026-01-02,M002,Extra Space,5x10,207,None
+2026-01-03,M003,Life Storage,5x5,96,50% off
+2026-01-04,M004,Extra Space,10x20,170,First month free
+2026-01-05,M005,Public Storage,5x5,123,First month free
+2026-01-06,M006,Life Storage,5x10,277,None
+2026-01-07,M007,Life Storage,5x5,205,$1 move-in
+2026-01-08,M008,CubeSmart,5x5,82,50% off
+2026-01-09,M009,Public Storage,10x20,223,First month free
+2026-01-10,M010,Extra Space,5x5,220,50% off
+2026-01-11,M011,Extra Space,10x20,152,50% off
+2026-01-12,M012,CubeSmart,5x5,230,None
+2026-01-13,M013,Public Storage,10x20,242,50% off
+2026-01-14,M014,Extra Space,5x10,217,$1 move-in
+2026-01-15,M015,CubeSmart,10x10,92,First month free
+2026-01-16,M016,Life Storage,5x5,181,First month free
+2026-01-17,M017,Public Storage,10x20,91,None
+2026-01-18,M018,Public Storage,10x10,238,$1 move-in
+2026-01-19,M019,Public Storage,10x10,282,$1 move-in
+2026-01-20,M020,Public Storage,5x10,223,First month free
+2026-01-21,M001,Extra Space,5x10,99,50% off
+2026-01-22,M002,CubeSmart,5x10,185,50% off
+2026-01-23,M003,Extra Space,10x20,232,50% off
+2026-01-24,M004,CubeSmart,10x10,273,$1 move-in
+2026-01-25,M005,Life Storage,10x20,166,50% off
+2026-01-26,M006,CubeSmart,10x10,272,None
+2026-01-27,M007,Public Storage,5x5,80,$1 move-in
+2026-01-28,M008,CubeSmart,10x10,262,First month free
+2026-01-29,M009,CubeSmart,5x10,147,None
+2026-01-30,M010,Public Storage,5x10,180,First month free
+2026-01-31,M011,Public Storage,5x5,236,50% off
+2026-02-01,M012,CubeSmart,5x10,271,First month free
+2026-02-02,M013,Extra Space,10x10,238,$1 move-in
+2026-02-03,M014,Life Storage,5x10,183,50% off
+2026-02-04,M015,Public Storage,10x10,287,None
+2026-02-05,M016,CubeSmart,5x10,183,50% off
+2026-02-06,M017,Life Storage,10x20,130,None
+2026-02-07,M018,Life Storage,10x10,49,50% off
+2026-02-08,M019,Extra Space,5x5,122,None
+2026-02-09,M020,Public Storage,10x10,62,50% off
+2026-02-10,M001,Extra Space,5x10,132,50% off
+2026-02-11,M002,Extra Space,5x10,173,$1 move-in
+2026-02-12,M003,CubeSmart,10x10,74,50% off
+2026-02-13,M004,Public Storage,5x5,47,50% off
+2026-02-14,M005,Public Storage,10x10,78,None
+2026-02-15,M006,CubeSmart,5x5,229,None
+2026-02-16,M007,Public Storage,10x20,66,$1 move-in
+2026-02-17,M008,Public Storage,5x5,245,50% off
+2026-02-18,M009,Public Storage,5x5,203,None
+2026-02-19,M010,Public Storage,10x10,50,First month free
+2026-02-20,M011,Extra Space,5x5,250,None
+2026-02-21,M012,Extra Space,5x5,130,$1 move-in
+2026-02-22,M013,Public Storage,10x10,51,50% off
+2026-02-23,M014,Public Storage,10x10,265,First month free
+2026-02-24,M015,Public Storage,10x20,153,First month free
+2026-02-25,M016,Life Storage,5x10,159,First month free
+2026-02-26,M017,Extra Space,10x10,96,First month free
+2026-02-27,M018,Life Storage,10x10,210,First month free
+2026-02-28,M019,Public Storage,5x5,55,$1 move-in
+2026-03-01,M020,Public Storage,10x10,190,$1 move-in
+2026-03-02,M001,Life Storage,10x20,148,$1 move-in
+2026-03-03,M002,Life Storage,10x20,47,50% off
+2026-03-04,M003,Life Storage,10x10,135,$1 move-in
+2026-03-05,M004,CubeSmart,10x10,104,50% off
+2026-03-06,M005,Life Storage,5x5,237,$1 move-in
+2026-03-07,M006,Public Storage,5x10,159,None
+2026-03-08,M007,Life Storage,5x10,122,$1 move-in
+2026-03-09,M008,Life Storage,5x5,203,50% off
+2026-03-10,M009,CubeSmart,5x10,254,None
+2026-03-11,M010,Life Storage,10x20,55,50% off
+2026-03-12,M011,CubeSmart,10x20,168,50% off
+2026-03-13,M012,Public Storage,5x10,105,$1 move-in
+2026-03-14,M013,Life Storage,10x20,95,$1 move-in
+2026-03-15,M014,Public Storage,5x5,239,$1 move-in
+2026-03-16,M015,CubeSmart,5x10,254,50% off
+2026-03-17,M016,Life Storage,10x10,121,None
+2026-03-18,M017,Life Storage,10x20,288,None
+2026-03-19,M018,Extra Space,5x10,124,First month free
+2026-03-20,M019,Public Storage,10x10,73,50% off
+2026-03-21,M020,Extra Space,5x5,160,$1 move-in
+2026-03-22,M001,Extra Space,10x20,162,None
+2026-03-23,M002,Public Storage,10x20,148,First month free
+2026-03-24,M003,Public Storage,10x20,164,50% off
+2026-03-25,M004,Public Storage,5x10,113,50% off
+2026-03-26,M005,Public Storage,10x20,205,None
+2026-03-27,M006,CubeSmart,5x5,186,None
+2026-03-28,M007,Life Storage,10x10,74,50% off
+2026-03-29,M008,Extra Space,10x20,241,None
+2026-03-30,M009,Extra Space,5x5,227,First month free
+2026-03-31,M010,Life Storage,10x20,176,$1 move-in
+2026-04-01,M011,Extra Space,10x10,220,$1 move-in
+2026-04-02,M012,CubeSmart,5x5,76,$1 move-in
+2026-04-03,M013,Life Storage,10x10,241,None
+2026-04-04,M014,Extra Space,5x5,268,50% off
+2026-04-05,M015,Public Storage,5x5,61,First month free
+2026-04-06,M016,CubeSmart,10x20,44,None
+2026-04-07,M017,Life Storage,5x10,109,First month free
+2026-04-08,M018,Life Storage,5x5,214,First month free
+2026-04-09,M019,Extra Space,5x10,205,$1 move-in
+2026-04-10,M020,Public Storage,10x10,124,None
+2026-04-11,M001,Extra Space,10x10,172,$1 move-in
+2026-04-12,M002,Life Storage,5x5,250,50% off
+2026-04-13,M003,Life Storage,10x10,83,$1 move-in
+2026-04-14,M004,Public Storage,10x20,229,First month free
+2026-04-15,M005,CubeSmart,5x5,158,$1 move-in
+2026-04-16,M006,CubeSmart,5x10,249,First month free
+2026-04-17,M007,Extra Space,5x5,61,None
+2026-04-18,M008,CubeSmart,5x5,101,None
+2026-04-19,M009,Life Storage,10x10,58,$1 move-in
+2026-04-20,M010,Life Storage,5x10,105,First month free
+2026-04-21,M011,Extra Space,10x20,99,None
+2026-04-22,M012,Life Storage,5x5,191,First month free
+2026-04-23,M013,Public Storage,5x10,266,First month free
+2026-04-24,M014,Extra Space,10x10,119,50% off
+2026-04-25,M015,CubeSmart,5x10,135,First month free
+2026-04-26,M016,CubeSmart,5x5,69,50% off
+2026-04-27,M017,Extra Space,10x10,239,$1 move-in
+2026-04-28,M018,CubeSmart,5x10,150,None
+2026-04-29,M019,Public Storage,10x20,226,50% off
+2026-04-30,M020,Life Storage,5x10,288,None
+2026-01-01,M001,Public Storage,5x5,112,50% off
+2026-01-02,M002,CubeSmart,10x20,251,$1 move-in
+2026-01-03,M003,Life Storage,5x10,191,None
+2026-01-04,M004,CubeSmart,5x10,61,None
+2026-01-05,M005,CubeSmart,10x10,101,$1 move-in
+2026-01-06,M006,Public Storage,10x10,60,First month free
+2026-01-07,M007,Public Storage,10x10,246,$1 move-in
+2026-01-08,M008,CubeSmart,10x20,109,First month free
+2026-01-09,M009,Life Storage,10x10,148,First month free
+2026-01-10,M010,Extra Space,10x20,181,50% off
+2026-01-11,M011,Life Storage,10x20,152,$1 move-in
+2026-01-12,M012,Life Storage,10x20,87,None
+2026-01-13,M013,Life Storage,10x10,56,$1 move-in
+2026-01-14,M014,Life Storage,10x10,97,50% off
+2026-01-15,M015,Life Storage,10x20,99,None
+2026-01-16,M016,Public Storage,5x5,204,$1 move-in
+2026-01-17,M017,CubeSmart,5x10,124,None
+2026-01-18,M018,Public Storage,5x10,283,None
+2026-01-19,M019,CubeSmart,5x10,100,50% off
+2026-01-20,M020,Public Storage,5x5,127,$1 move-in
+2026-01-21,M001,Extra Space,5x10,52,None
+2026-01-22,M002,Public Storage,5x10,127,$1 move-in
+2026-01-23,M003,CubeSmart,10x10,131,First month free
+2026-01-24,M004,CubeSmart,5x5,109,$1 move-in
+2026-01-25,M005,Life Storage,5x5,68,$1 move-in
+2026-01-26,M006,CubeSmart,10x20,287,$1 move-in
+2026-01-27,M007,Public Storage,10x20,272,50% off
+2026-01-28,M008,Life Storage,5x10,136,$1 move-in
+2026-01-29,M009,Extra Space,5x10,77,First month free
+2026-01-30,M010,Extra Space,10x10,114,First month free
+2026-01-31,M011,CubeSmart,5x10,103,50% off
+2026-02-01,M012,Life Storage,5x10,72,None
+2026-02-02,M013,Extra Space,10x20,46,$1 move-in
+2026-02-03,M014,Extra Space,5x10,265,First month free
+2026-02-04,M015,Life Storage,5x5,78,50% off
+2026-02-05,M016,Extra Space,10x20,287,$1 move-in
+2026-02-06,M017,CubeSmart,5x5,149,First month free
+2026-02-07,M018,CubeSmart,5x5,117,First month free
+2026-02-08,M019,Public Storage,5x10,183,$1 move-in
+2026-02-09,M020,Public Storage,10x20,69,$1 move-in
+2026-02-10,M001,Public Storage,5x10,157,$1 move-in
+2026-02-11,M002,CubeSmart,10x10,138,None
+2026-02-12,M003,Extra Space,5x5,74,First month free
+2026-02-13,M004,Life Storage,10x10,233,None
+2026-02-14,M005,Extra Space,5x5,77,$1 move-in
+2026-02-15,M006,CubeSmart,5x5,44,First month free
+2026-02-16,M007,CubeSmart,10x10,204,First month free
+2026-02-17,M008,Life Storage,5x5,48,First month free
+2026-02-18,M009,Public Storage,5x10,287,$1 move-in
+2026-02-19,M010,Extra Space,10x20,173,$1 move-in
+2026-02-20,M011,Public Storage,10x20,233,First month free
+2026-02-21,M012,Public Storage,10x20,94,None
+2026-02-22,M013,Life Storage,10x10,196,None
+2026-02-23,M014,Public Storage,5x10,147,First month free
+2026-02-24,M015,Extra Space,10x10,155,50% off
+2026-02-25,M016,Extra Space,10x20,177,None
+2026-02-26,M017,CubeSmart,10x20,111,First month free
+2026-02-27,M018,Extra Space,10x20,238,First month free
+2026-02-28,M019,Life Storage,10x10,191,$1 move-in
+2026-03-01,M020,CubeSmart,10x20,210,$1 move-in
+2026-03-02,M001,CubeSmart,5x10,138,First month free
+2026-03-03,M002,Life Storage,10x10,281,50% off
+2026-03-04,M003,CubeSmart,10x10,185,None
+2026-03-05,M004,Life Storage,5x10,103,$1 move-in
+2026-03-06,M005,Public Storage,5x5,79,50% off
+2026-03-07,M006,Life Storage,10x20,51,First month free
+2026-03-08,M007,Extra Space,10x10,238,$1 move-in
+2026-03-09,M008,Life Storage,10x10,152,$1 move-in
+2026-03-10,M009,Public Storage,10x20,61,50% off
+2026-03-11,M010,Public Storage,5x10,149,None
+2026-03-12,M011,Public Storage,10x20,106,50% off
+2026-03-13,M012,Public Storage,5x10,188,$1 move-in
+2026-03-14,M013,Extra Space,5x10,183,$1 move-in
+2026-03-15,M014,CubeSmart,10x10,165,$1 move-in
+2026-03-16,M015,Life Storage,10x10,80,50% off
+2026-03-17,M016,Public Storage,10x20,208,$1 move-in
+2026-03-18,M017,Public Storage,10x10,160,$1 move-in
+2026-03-19,M018,Life Storage,5x10,48,$1 move-in
+2026-03-20,M019,Public Storage,10x20,136,First month free
+2026-03-21,M020,Life Storage,5x10,271,$1 move-in
+2026-03-22,M001,Life Storage,5x10,202,None
+2026-03-23,M002,Extra Space,5x10,246,$1 move-in
+2026-03-24,M003,CubeSmart,10x10,76,$1 move-in
+2026-03-25,M004,Extra Space,10x20,141,$1 move-in
+2026-03-26,M005,Life Storage,5x5,167,$1 move-in
+2026-03-27,M006,Life Storage,5x10,119,50% off
+2026-03-28,M007,Public Storage,10x10,158,50% off
+2026-03-29,M008,CubeSmart,5x5,166,None
+2026-03-30,M009,CubeSmart,10x20,195,First month free
+2026-03-31,M010,Public Storage,5x10,52,First month free
+2026-04-01,M011,Life Storage,10x10,249,First month free
+2026-04-02,M012,CubeSmart,5x10,183,None
+2026-04-03,M013,Extra Space,5x10,101,None
+2026-04-04,M014,Public Storage,10x20,111,First month free
+2026-04-05,M015,Extra Space,10x10,211,First month free
+2026-04-06,M016,Life Storage,5x5,152,$1 move-in
+2026-04-07,M017,Public Storage,10x20,259,First month free
+2026-04-08,M018,Extra Space,5x5,182,First month free
+2026-04-09,M019,Extra Space,10x10,286,None
+2026-04-10,M020,CubeSmart,5x5,46,$1 move-in
+2026-04-11,M001,Life Storage,10x20,258,50% off
+2026-04-12,M002,CubeSmart,10x10,112,First month free
+2026-04-13,M003,Extra Space,5x5,247,50% off
+2026-04-14,M004,Life Storage,10x10,236,None
+2026-04-15,M005,Extra Space,10x20,275,First month free
+2026-04-16,M006,Extra Space,10x20,94,First month free
+2026-04-17,M007,Life Storage,5x5,280,None
+2026-04-18,M008,Extra Space,5x5,153,First month free
+2026-04-19,M009,Life Storage,5x10,230,None
+2026-04-20,M010,CubeSmart,10x10,63,50% off
+2026-04-21,M011,CubeSmart,5x10,130,None
+2026-04-22,M012,Public Storage,5x5,150,First month free
+2026-04-23,M013,Public Storage,10x20,163,None
+2026-04-24,M014,Extra Space,10x10,85,First month free
+2026-04-25,M015,Public Storage,5x5,234,$1 move-in
+2026-04-26,M016,Public Storage,5x5,163,$1 move-in
+2026-04-27,M017,Extra Space,10x20,137,First month free
+2026-04-28,M018,CubeSmart,10x20,247,None
+2026-04-29,M019,CubeSmart,5x5,126,First month free
+2026-04-30,M020,CubeSmart,10x10,93,$1 move-in
+2026-01-01,M001,Public Storage,10x10,122,First month free
+2026-01-02,M002,Extra Space,10x20,54,$1 move-in
+2026-01-03,M003,Public Storage,5x5,62,$1 move-in
+2026-01-04,M004,CubeSmart,10x20,198,$1 move-in
+2026-01-05,M005,Public Storage,10x10,136,First month free
+2026-01-06,M006,Public Storage,5x10,54,None
+2026-01-07,M007,Life Storage,10x20,169,50% off
+2026-01-08,M008,Life Storage,10x20,237,50% off
+2026-01-09,M009,Public Storage,5x5,138,50% off
+2026-01-10,M010,CubeSmart,5x10,243,First month free
+2026-01-11,M011,Public Storage,10x10,86,50% off
+2026-01-12,M012,Life Storage,10x20,108,None
+2026-01-13,M013,Life Storage,5x5,168,50% off
+2026-01-14,M014,Extra Space,10x10,208,$1 move-in
+2026-01-15,M015,Life Storage,5x10,101,None
+2026-01-16,M016,Life Storage,10x20,232,First month free
+2026-01-17,M017,Public Storage,5x10,235,First month free
+2026-01-18,M018,Life Storage,5x10,251,First month free
+2026-01-19,M019,Public Storage,5x10,43,50% off
+2026-01-20,M020,Life Storage,10x20,210,None
+2026-01-21,M001,CubeSmart,5x5,211,50% off
+2026-01-22,M002,Life Storage,10x20,47,50% off
+2026-01-23,M003,Extra Space,5x5,171,$1 move-in
+2026-01-24,M004,Extra Space,5x5,197,50% off
+2026-01-25,M005,Life Storage,5x10,220,First month free
+2026-01-26,M006,Public Storage,10x20,265,50% off
+2026-01-27,M007,Public Storage,5x5,75,50% off
+2026-01-28,M008,Public Storage,5x10,53,First month free
+2026-01-29,M009,Public Storage,10x20,278,$1 move-in
+2026-01-30,M010,CubeSmart,5x10,238,$1 move-in
+2026-01-31,M011,Extra Space,5x5,46,None
+2026-02-01,M012,Life Storage,10x10,223,First month free
+2026-02-02,M013,Extra Space,10x20,187,None
+2026-02-03,M014,CubeSmart,5x5,77,First month free
+2026-02-04,M015,Life Storage,10x10,235,50% off
+2026-02-05,M016,Extra Space,10x20,147,$1 move-in
+2026-02-06,M017,Public Storage,5x5,169,First month free
+2026-02-07,M018,Public Storage,5x10,66,$1 move-in
+2026-02-08,M019,Public Storage,5x5,44,$1 move-in
+2026-02-09,M020,Life Storage,10x20,127,$1 move-in

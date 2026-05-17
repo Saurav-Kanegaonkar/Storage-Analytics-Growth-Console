@@ -1,10 +1,9 @@
 # Data Dictionary
 
-| Field | Meaning |
-|---|---|
-| experiment | Proposed ecommerce or lifecycle test |
-| impact | Relative expected business impact |
-| confidence | Measurement and execution confidence |
-| effort | Estimated implementation complexity |
-| tracking_qa | Whether the data can support a valid test |
-| inventory_fit | Whether operations can absorb demand |
+| Table | Grain | Purpose |
+|---|---|---|
+| markets.csv | market | Market metadata and capacity index |
+| channel_daily.csv | market x channel x day | Sessions, quote starts, bookings, spend, tracking quality |
+| inventory_availability.csv | market x day | Available storage units and occupancy |
+| competitor_prices.csv | competitor scrape | Market-level competitor price and offer checks |
+| experiment_backlog.csv | experiment | Impact, confidence, effort, and primary metric |

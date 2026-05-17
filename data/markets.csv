@@ -1,0 +1,21 @@
+market_id,market,region,population_band,storage_capacity_index
+M001,Phoenix,West,Small,81
+M002,Tucson,Central,Large,81
+M003,Las Vegas,South,Mid,60
+M004,Denver,South,Mid,55
+M005,Dallas,East,Large,65
+M006,Austin,East,Mid,61
+M007,Houston,East,Small,95
+M008,Atlanta,South,Large,85
+M009,Charlotte,West,Mid,94
+M010,Nashville,Central,Large,88
+M011,Orlando,West,Large,77
+M012,Tampa,Central,Mid,92
+M013,Chicago,Central,Large,90
+M014,Columbus,South,Large,55
+M015,Detroit,Central,Large,76
+M016,Seattle,West,Mid,97
+M017,Portland,Central,Small,69
+M018,Sacramento,South,Small,81
+M019,San Diego,Central,Large,83
+M020,Salt Lake City,East,Small,79

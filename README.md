@@ -21,6 +21,12 @@ This is an ecommerce experimentation lab built around synthetic storage booking,
 - Use competitor price checks as a budget guardrail rather than the main experiment.
 - Keep repeat-renter lifecycle work as a lower-risk parallel lane once holdout measurement is ready.
 
+## Data sources
+
+- Five source-style CSVs now support the experiment lab.
+- The data covers markets, channel performance, inventory availability, competitor prices, and experiment backlog scoring.
+- The scoring script ranks experiments using impact, confidence, and effort.
+
 ## Repository structure
 
 - `index.html` - interactive experiment lab
