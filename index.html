@@ -7,42 +7,34 @@
   <link rel="stylesheet" href="src/styles.css">
 </head>
 <body>
-  <main class="app">
-    <header class="hero">
-      <div>
-        <p class="eyebrow">Ecommerce BI</p>
-        <h1>Storage Analytics Growth Console</h1>
-        <p>Digital and operations teams need a clear way to connect ecommerce demand, campaign performance, product trends, and operational constraints before growth decisions are made.</p>
-      </div>
-      <div class="hero-card">
-        <span>Decision risk</span>
-        <strong>8</strong>
-        <small>prioritized</small>
-      </div>
+  <main class="lab">
+    <header class="lab-header">
+      <p class="label">Ecommerce Experimentation</p>
+      <h1>Storage Analytics Growth Console</h1>
+      <p>Connect demand, tracking QA, inventory constraints, and campaign ROI before deciding which growth experiment deserves traffic.</p>
     </header>
-    <section>
-      <span class="output-tag">Output 1 · Executive pulse</span>
-      <div class="metric-grid" id="metrics"></div>
-    </section>
-    <section class="grid">
-      <article class="panel wide">
-        <p class="eyebrow">Diagnostic table</p>
-        <span class="output-tag">Output 2 · Operating queue</span>
-        <h2>Where the team should focus next</h2>
-        <div id="table"></div>
+    <section class="funnel" id="funnel"></section>
+    <section class="matrix-wrap">
+      <article class="matrix-card">
+        <p class="label">Experiment priority matrix</p>
+        <div id="matrix" class="matrix"></div>
       </article>
-      <article class="panel">
-        <p class="eyebrow">What the data says</p>
-        <span class="output-tag">Output 3 · Analytical readout</span>
-        <h2>Signals behind the recommendation</h2>
-        <div id="signals"></div>
+      <article class="experiment-card">
+        <p class="label">Selected experiment</p>
+        <h2 id="experiment-title"></h2>
+        <p id="experiment-hypothesis"></p>
+        <div id="experiment-metrics" class="experiment-metrics"></div>
       </article>
     </section>
-    <section class="panel">
-      <p class="eyebrow">Recommendation memo</p>
-      <span class="output-tag">Output 4 · Next actions</span>
-      <h2>Recommended moves</h2>
-      <div id="recs" class="memo-grid"></div>
+    <section class="readout">
+      <article>
+        <p class="label">What the data says</p>
+        <div id="insights"></div>
+      </article>
+      <article>
+        <p class="label">Recommendation</p>
+        <div id="recommendations"></div>
+      </article>
     </section>
   </main>
   <script src="src/data.js"></script>

@@ -1,52 +1,39 @@
 # Storage Analytics Growth Console
 
-I built this because ecommerce and storage analytics need to connect marketing journeys, operational demand, and product performance into one trusted view. The project models how BI can turn digital behavior, campaign performance, and competitor signals into specific growth actions.
+I built this because ecommerce growth decisions can look obvious in channel dashboards but fail when tracking QA, market capacity, and competitor pressure are ignored. The project turns a storage-style growth problem into an experiment prioritization lab.
 
-![Storage Analytics Growth Console dashboard](docs/images/dashboard.png)
+![Storage Analytics Growth Console](docs/images/dashboard.png)
 
-## Why this exists
+## What this project is
 
-Digital and operations teams need a clear way to connect ecommerce demand, campaign performance, product trends, and operational constraints before growth decisions are made.
+This is an ecommerce experimentation lab built around synthetic storage booking, channel, QA, and inventory signals. Instead of only showing KPIs, it asks which test should receive traffic first and why.
 
-## What is in the project
+## What makes it different
 
-- A polished dashboard in `index.html`
-- Modular UI/data files in `src/`
-- Synthetic operating data in `data/synthetic_operating_data.csv`
-- A screenshot captured from the rendered app in `docs/images/dashboard.png`
+- Funnel view for search demand through booking
+- Impact-confidence matrix for experiment prioritization
+- Clickable experiment cards with hypotheses, metrics, insights, and recommendations
+- Analysis notes and a scoring script included with the repo
 
-## Dashboard sections
+## Analytical recommendations
 
-- Growth pulse: bookings, channel ROI, conversion, and dashboard freshness.
-- Opportunity table: journey segment, demand signal, tracking quality, and action priority.
-- Recommendation memo: A/B tests, Databricks workflow ideas, and dashboard cleanup priorities.
+- Run the mobile unit selector first because demand is high, tracking quality is good, and market inventory can support the test.
+- Use competitor price checks as a budget guardrail rather than the main experiment.
+- Keep repeat-renter lifecycle work as a lower-risk parallel lane once holdout measurement is ready.
 
-## What the data says
+## Repository structure
 
-The synthetic data shows mobile search creates strong demand but weaker downstream conversion than direct repeat users.
-
-Competitor-price gaps matter most in regions where storage inventory is available and paid traffic is already efficient.
-
-The next move is to run controlled landing-page tests before scaling channel spend.
-
-## Output walkthrough
-
-### Output 1: Executive pulse
-
-The KPI cards summarize the current operating picture and highlight whether the team should trust, investigate, or act on the latest metrics.
-
-### Output 2: Diagnostic table
-
-The table converts raw operating signals into a ranked queue of risks, owners, and recommended next actions.
-
-### Output 3: Analytical recommendations
-
-The memo turns the analysis into specific business actions that can be discussed in a weekly review or stakeholder workshop.
+- `index.html` - interactive experiment lab
+- `src/` - synthetic data, interaction logic, and styling
+- `data/` - synthetic operating data
+- `analysis/methodology.md` - prioritization method
+- `scripts/score_operating_data.py` - experiment scoring script
+- `docs/images/dashboard.png` - rendered screenshot
 
 ## Run locally
 
 ```bash
-python3 -m http.server 4173
+python3 -m http.server 4174
 ```
 
-Then open `http://localhost:4173`.
+Then open `http://localhost:4174`.

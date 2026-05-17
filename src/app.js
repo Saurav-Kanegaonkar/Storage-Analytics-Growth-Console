@@ -1,11 +1,35 @@
-const data = window.dashboardData;
-const el = (tag, className, html) => {
-  const node = document.createElement(tag);
-  if (className) node.className = className;
-  if (html) node.innerHTML = html;
-  return node;
-};
-document.querySelector("#metrics").replaceChildren(...data.cards.map((card) => el("article", "metric", `<span>${card[0]}</span><strong>${card[1]}</strong><small>${card[2]}</small>`)));
-document.querySelector("#table").innerHTML = `<table><thead><tr><th>Signal</th><th>Segment</th><th>Status</th><th>Finding</th><th>Risk</th></tr></thead><tbody>${data.table.map((row) => `<tr><td>${row[0]}</td><td>${row[1]}</td><td>${row[2]}</td><td>${row[3]}</td><td><b class="${row[4].toLowerCase()}">${row[4]}</b></td></tr>`).join("")}</tbody></table>`;
-document.querySelector("#signals").replaceChildren(...data.dataSays.map((item) => el("div", "signal", item)));
-document.querySelector("#recs").replaceChildren(...data.recs.map((item, index) => el("article", "memo", `<strong>${index + 1}. Recommendation</strong>${item}`)));
+const data = window.projectData;
+let selected = 0;
+
+function renderFunnel() {
+  document.querySelector("#funnel").innerHTML = data.funnel.map(([label, value, width]) => `
+    <article style="--w:${width}%">
+      <span>${label}</span>
+      <strong>${value}</strong>
+      <div><i></i></div>
+    </article>
+  `).join("");
+}
+
+function renderExperiment() {
+  const experiment = data.experiments[selected];
+  document.querySelector("#experiment-title").textContent = experiment.name;
+  document.querySelector("#experiment-hypothesis").textContent = experiment.hypothesis;
+  document.querySelector("#experiment-metrics").innerHTML = experiment.metrics.map(([label, value]) => `<div><span>${label}</span><strong>${value}</strong></div>`).join("");
+  document.querySelector("#insights").innerHTML = experiment.insights.map((item) => `<p>${item}</p>`).join("");
+  document.querySelector("#recommendations").innerHTML = experiment.recs.map((item, index) => `<p><b>${index + 1}</b> ${item}</p>`).join("");
+  document.querySelector("#matrix").innerHTML = data.experiments.map((item, index) => `
+    <button class="${index === selected ? "active" : ""}" data-index="${index}" style="left:${item.confidence}%; bottom:${item.impact}%">
+      <span>${item.name}</span>
+    </button>
+  `).join("");
+  document.querySelectorAll("#matrix button").forEach((button) => {
+    button.addEventListener("click", () => {
+      selected = Number(button.dataset.index);
+      renderExperiment();
+    });
+  });
+}
+
+renderFunnel();
+renderExperiment();

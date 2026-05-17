@@ -1,5 +1,4 @@
-signal,segment,status,finding,risk
-"Mobile search","Ecommerce","Fresh","High demand, weak conversion","High"
-"Repeat renters","CRM","Fresh","Strong repeat value","Medium"
-"Competitor gaps","Market","Draft","Price test needed","High"
-"Ops capacity","Storage","Fresh","Inventory constraint","Medium"
+experiment,impact,confidence,effort,tracking_qa,inventory_fit
+Mobile unit selector,86,78,Medium,91,High
+Competitor price guardrail,74,63,Low,84,Medium
+Repeat renter lifecycle,59,81,Low,88,High
